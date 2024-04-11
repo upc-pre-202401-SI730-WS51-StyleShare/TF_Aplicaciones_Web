@@ -1,4 +1,4 @@
-![image](https://github.com/upc-pre-202401-SI730-WS51-StyleShare/TF_Aplicaciones_Web/assets/102090663/df7d414b-a048-48bd-96d2-1e11ee42bdcb)<h1 style="text-align: center;"> Informe del Trabajo Final </h1>
+Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 <img src= Images/UPC_logo_transparente.png
