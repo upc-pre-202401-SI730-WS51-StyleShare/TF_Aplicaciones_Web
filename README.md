@@ -369,6 +369,15 @@ Consumidores conscientes de la moda: Los usuarios pueden lucir bien en eventos e
 
 ####     1.1. Análisis competitivo.
 
+##### Olibati: Página para comprar o Alquilar ropa de distintos tipos
+[Olibati](https://olibati.com/pages/como-alquilar)
+
+##### My wardrobe HQ: Página para alquilar ropa, la cual también ofrece una opción de suscripción para poder conseguir un número determinado de items cada mes
+[My wardrobe HQ](https://www.mywardrobehq.com/) 
+
+##### Rent the Runaway: Plataforma que permite acceder a suscripciones por distintos precios, con las cuales se puede rentar una cantidad definida e items y mantenerlos mientras se siga siendo socio
+[Rent the Runaway](https://www.renttherunway.com/)
+
 ####     1.2. Estrategias y tácticas frente a competidores.
 
 
