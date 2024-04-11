@@ -148,11 +148,11 @@ En Change4All,, tenemos una visión ambiciosa para el futuro de la moda. Nos ima
 
 | Nombre                           | Descripción                                                                                                                                   |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
-| Christopher Sebastian More Rondon (U202212199) ![image](Imagenes/integrante1.PNG)| Me llamo Christopher More, soy estudiante de quinto ciclo de Ingeniería de Software. Soy creativo e ingenioso para resolver problemas creando programas. Siempre intento completar las tareas a tiempo y asegurarme de que se encuentren bien hechas |
+| Christopher Sebastian More Rondon (U202212199) ![image](Images/integrante1.PNG)| Me llamo Christopher More, soy estudiante de quinto ciclo de Ingeniería de Software. Soy creativo e ingenioso para resolver problemas creando programas. Siempre intento completar las tareas a tiempo y asegurarme de que se encuentren bien hechas |
 |  |             |
 |              |          |
-| Tony Alexander Ramos Najar (u20211a153)  ![image](Imagenes/integrante4.PNG)      | Mi nombre es Tony Ramos, estoy cursando el 7mo ciclo de la carrera de Ingeniería de Software. Me considero hábil en el ámbito de la programación en los lenguajes, Python, Javascript, y últimamente estoy aprendiendo Angular. Con respeto a mi, me considero una persona responsable, con ganas de aprender y a superarme a mi mismo. |
-| Joaquin Antonio Cortez Quezada (u202212648)  ![image](Imagenes/integranteJ.PNG)      | Mi nombre es Joaquín Antonio Cortez Quezada, tengo 19 años y actualmente estoy  cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me considero una persona perseverante, responsable, empática en cualquier ámbito de mi vida, ya sea en el aspecto académico. |
+| Tony Alexander Ramos Najar (u20211a153)  ![image](Images/integrante4.PNG)      | Mi nombre es Tony Ramos, estoy cursando el 7mo ciclo de la carrera de Ingeniería de Software. Me considero hábil en el ámbito de la programación en los lenguajes, Python, Javascript, y últimamente estoy aprendiendo Angular. Con respeto a mi, me considero una persona responsable, con ganas de aprender y a superarme a mi mismo. |
+| Joaquin Antonio Cortez Quezada (u202212648)  ![image](Images/integranteJ.PNG)      | Mi nombre es Joaquín Antonio Cortez Quezada, tengo 19 años y actualmente estoy  cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me considero una persona perseverante, responsable, empática en cualquier ámbito de mi vida, ya sea en el aspecto académico. |
 
 ### 2. **Solution Profile.**
 
