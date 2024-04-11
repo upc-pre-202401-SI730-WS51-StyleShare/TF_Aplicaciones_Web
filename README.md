@@ -1,7 +1,7 @@
 <h1 style="text-align: center;"> Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
-<img src= Imagenes/logo-upc.png
+<img src= Images/UPC_logo_transparente.png
 style="display: block; 
 margin-left:auto; 
 margin-right: auto; 
