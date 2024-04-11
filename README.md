@@ -33,7 +33,7 @@ width=50%"/>
 
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
-| 1.0       |  10/04/2024| Cruz Palomino, Adriano Sebastian | Creación del documento de trabajo en formato markdown. | Completado  |
+| 1.0       | |  | |   |
 
 ### Project Report Collaboration Insights
 
