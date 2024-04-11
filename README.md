@@ -159,7 +159,7 @@ En Change4All,, tenemos una visión ambiciosa para el futuro de la moda. Nos ima
 StyleShare es la solución innovadora de Change4All que permite alquilar prendas y accesorios de moda para eventos especiales. Con nuestra plataforma tenemos la idea de crear una comunidad donde los usuarios puedan encontrar prendas únicas y de calidad para ocasiones especiales sin la necesidad de comprarlas. De esa forma, no solo ahorran dinero, sino que también contribuyen a reducir el desperdicio de moda generado por la industria del fast fashion.
 ### Características clave:
 
-- ** Filtros Avanzados de Búsqueda **: Ofrece una amplia gama de filtros para que los usuarios puedan buscar prendas y accesorios de manera rápida y específica, como por tipo de prenda, color, talla, ocasión, etc.
+- **Filtros Avanzados de Búsqueda**: Ofrece una amplia gama de filtros para que los usuarios puedan buscar prendas y accesorios de manera rápida y específica, como por tipo de prenda, color, talla, ocasión, etc.
 
 - Perfiles de Usuario Personalizados: Permite a los usuarios crear perfiles detallados con sus preferencias de estilo, tallas y eventos futuros para recibir recomendaciones y sugerencias personalizadas.
 
