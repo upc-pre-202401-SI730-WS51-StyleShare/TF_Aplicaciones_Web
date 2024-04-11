@@ -407,9 +407,43 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 ####     1.2. Estrategias y tácticas frente a competidores.
 
 
+##### Mostrar vendedores nuevos: La página principal también contará con la opción de visualizar la ropa recién puesta en renta, de modo que los nuevos vendedores tengan oportunidad de ser notados
+
+##### Mostrar reseñas: Los vendedores serán calificados por los usuarios, permitiendo a los demás usuarios alquilar ropa con confianza
+
+##### Remarcar tipos de vestimenta: Se mostrarán filtros para elegir las distintas clases de ropa que poseemos, dándole a entender al usuario la amplia variedad de opciones que tiene
+
+
 ### 2. **Entrevistas.**
 
 ####     2.1. Diseño de entrevistas.
+
+#### **Segmento Objetivo 1: Consumidores conscientes de la moda**
+ 
+- ¿Cuál es su nombre completo?
+- ¿Qué edad tiene?
+- ¿Donde suele buscar su ropa para eventos sociales?
+- ¿En alguna ocasiones le ha resultado difícil encontrar una prenda específica para algún evento?
+- ¿Cuál es el mayor desafío que usted se encuentra al momento de buscar la vestimenta adecuada para un evento social ?
+**(Preguntas específicas para el segmento:)**
+- ¿Con qué frecuencia asistes a eventos sociales que requieren una vestimenta especial?
+- ¿Suele demorar en encontrar prendas a su gusto para asistir a estos tipos de eventos?
+- ¿Qué tan interesado estás en alquilar una prenda para un evento , consideras que es más sostenible para el medio ambiente? 
+
+
+#### Segmento objetivo 2: 
+
+#### **Segmento Objetivo 2: Propietarios de prendas y accesorios**
+- ¿Cuál es su nombre completo?
+- ¿Qué edad tiene?
+- ¿Donde suele buscar su ropa para eventos sociales?
+- ¿En alguna ocasiones le ha resultado difícil encontrar una prenda específica para algún evento?
+
+**(Preguntas específicas para el segmento:)**
+- ¿Qué lo motivó a considerar la idea de alquilar sus prendas y accesorios?
+- ¿Qué tipo de prendas y accesorios estaría dispuesto a alquilar?
+- ¿Considera que al poner sus prendas en alquiler puede contribuir a reducir el desperdicio de moda?
+
 
 ####     2.2. Registro de entrevistas.
 
