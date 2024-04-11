@@ -431,7 +431,7 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 - ¿Qué tan interesado estás en alquilar una prenda para un evento , consideras que es más sostenible para el medio ambiente? 
 
 
-#### Segmento objetivo 2: 
+<br>
 
 #### **Segmento Objetivo 2: Propietarios de prendas y accesorios**
 - ¿Cuál es su nombre completo?
