@@ -161,26 +161,88 @@ StyleShare es la solución innovadora de Change4All que permite alquilar prendas
 
 - **Filtros Avanzados de Búsqueda**: Ofrece una amplia gama de filtros para que los usuarios puedan buscar prendas y accesorios de manera rápida y específica, como por tipo de prenda, color, talla, ocasión, etc.
 
-- Perfiles de Usuario Personalizados: Permite a los usuarios crear perfiles detallados con sus preferencias de estilo, tallas y eventos futuros para recibir recomendaciones y sugerencias personalizadas.
+- **Perfiles de Usuario Personalizados**: Permite a los usuarios crear perfiles detallados con sus preferencias de estilo, tallas y eventos futuros para recibir recomendaciones y sugerencias personalizadas.
 
-- Publicación de Prendas: Permite a los usuarios publicar sus prendas y accesorios para alquilar. Deben poder agregar fotos de alta calidad y descripciones detalladas. 
+- **Publicación de Prendas**: Permite a los usuarios publicar sus prendas y accesorios para alquilar. Deben poder agregar fotos de alta calidad y descripciones detalladas. 
 
-- Asesoría sobre Moda Sostenible: Proporciona asesorías sobre moda sostenible a los usuarios, contando con la opción de contactar con un asesor en el caso se prefiera tener un trato mas personalizado. 
+- **Asesoría sobre Moda Sostenible**: Proporciona asesorías sobre moda sostenible a los usuarios, contando con la opción de contactar con un asesor en el caso se prefiera tener un trato mas personalizado. 
 
-- Sistema de Calificaciones y Reseñas: Implementa un sistema de calificación y reseñas para que los usuarios puedan evaluar la calidad de las prendas y la confiabilidad de otros usuarios.
+- **Sistema de Calificaciones y Reseñas**: Implementa un sistema de calificación y reseñas para que los usuarios puedan evaluar la calidad de las prendas y la confiabilidad de otros usuarios.
 
-- Chat y Comunicación: Integra una función de chat para que los usuarios puedan comunicarse entre sí, coordinar detalles de intercambio y hacer preguntas sobre las prendas.
+- **Chat y Comunicación**: Integra una función de chat para que los usuarios puedan comunicarse entre sí, coordinar detalles de intercambio y hacer preguntas sobre las prendas.
 
-- Sistema de Notificaciones: Mantén a los usuarios informados sobre las interacciones, nuevos mensajes, solicitudes de intercambio y actualizaciones relevantes.
+- **Sistema de Notificaciones**: Mantén a los usuarios informados sobre las interacciones, nuevos mensajes, solicitudes de intercambio y actualizaciones relevantes.
 
-- Promoción de Prendas Destacadas: Permite a los usuarios destacar sus prendas mediante un sistema de promoción, lo que les ayudará a obtener más visibilidad.
+- **Promoción de Prendas Destacadas**: Permite a los usuarios destacar sus prendas mediante un sistema de promoción, lo que les ayudará a obtener más visibilidad.
 
-- Diferentes planes de suscripción: Permite a los usuarios adquirir un plan de suscripción con el cual recibirán beneficios únicos, tanto para los arrendadores como los arrendatarios
+- **Diferentes planes de suscripción**: Permite a los usuarios adquirir un plan de suscripción con el cual recibirán beneficios únicos, tanto para los arrendadores como los arrendatarios
 
-- Historial de Intercambios: Proporciona a los usuarios un historial detallado de sus intercambios pasados, incluyendo detalles de las prendas y la fecha.
+- **Historial de Intercambios**: Proporciona a los usuarios un historial detallado de sus intercambios pasados, incluyendo detalles de las prendas y la fecha.
 
 
 ####     2.1. Antecedentes y Problemática
+
+### Los 5 'W' y 2 'H'
+
+### 1. What (Qué)
+Se refiere a la razón por la cual se está implementando esta metodología. Suele resultar en:
+
+### ¿Cuál es el problema?
+Los consumidores se encuentran en la incómoda posición de no tener a su disposición la prenda o accesorio adecuado para su vestimenta deseada. Este desafío se convierte en una experiencia agobiante a medida que los compradores se ven impulsados a realizar gastos excesivos en prendas que terminan usando de manera infrecuente. Esta tendencia no solo lleva a una acumulación innecesaria de ropa, sino que también tiene un impacto ambiental negativo al contribuir al desperdicio de recursos materiales y energéticos en la industria de la moda.
+
+### ¿Cuál es la relación con la persona en cuestión?
+La solución brinda a los clientes un canal por el cual pueden adquirir la vestimenta que necesitan.
+
+### 2. When (Cuándo)
+Busca el momento cuando ocurre el evento. También puede indicar un período de tiempo o una fecha límite:
+
+### ¿Cuándo sucede el problema?
+El problema surge cuando el cliente tiene la necesidad de asistir a un evento social y carece de la vestimenta adecuada.
+### ¿Cuándo utiliza el cliente el producto?
+Los clientes utilizan el producto cuando necesitan encontrar vestimenta para eventos sociales específicos.
+
+### 3. Where (dónde)
+Permite identificar el lugar específico o el lugar afectado por el problema planteado:
+
+### ¿Dónde está el cliente cuando usa el producto?
+El cliente se puede encontrar tanto en un ambiente público como privado.
+### ¿A dónde se dirige?
+Los clientes tienen la intención de asistir a eventos sociales, lo que puede ser en lugares como fiestas, bodas, reuniones, etc.
+### ¿Dónde surge el problema?
+El problema se origina en el cliente cuando se percata que no cuenta con la vestimenta adecuada para asistir a un evento social.
+
+### 4. Who (quién)
+Ayuda a comprender las informaciones importantes de todas las personas involucradas y no necesariamente una sola. Es posible que tengas varios tipos de clientes.
+
+### ¿Quiénes están involucrados?
+Los usuarios de la aplicación "StyleShare" están involucrados, tanto aquellos que buscan prendas como aquellos que desean intercambiar sus propias prendas.
+### ¿A quiénes le sucede el problema?
+El problema afecta a las personas que necesitan vestimenta adecuada para eventos sociales y desean encontrar una solución rentable.
+### ¿Quién lo utilizará?
+El producto será utilizado por individuos que presenten mayoría de edad y busquen alquilar prendas de vestir.
+
+### 5. Why (por qué)
+Está relacionado con la razón o el desencadenante de la situación. Permite encontrar los primeros elementos de respuesta:
+
+### ¿Cuál es la causa del problema?
+El problema surge porque los eventos sociales pueden requerir vestimenta específica que no es parte del guardarropa cotidiano de las personas, lo que lleva a la necesidad de adquirir prendas temporales.
+
+### ¿Cuáles son las 2H?
+El método de las 5W suele ser completado por las 2H que son How( cómo) y How much (cuánto):
+
+### 1. How (cómo)
+Se enfoca en la forma en la cual se llevan a cabo los hechos. Esto es a menudo un elemento importante para la explicación de una situación:
+
+### ¿En qué condiciones los clientes usan nuestro producto?
+Los clientes utilizan nuestro producto, EventWear, cuando se enfrentan a la necesidad de encontrar atuendos apropiados para eventos especiales de manera apresurada. Esto incluye situaciones como bodas, fiestas, galas y otros eventos donde se busca un look destacado y adecuado.
+### ¿Cómo nos conocieron los compradores?
+Los compradores nos conocen a través de varios canales, como redes sociales, publicidad en línea, recomendaciones de amigos y familiares, y búsqueda en motores de búsqueda. También establecemos asociaciones con influencers y colaboraciones con eventos para aumentar nuestra visibilidad.
+### ¿Qué llevó a la persona a llegar a esta situación?
+Las personas llegan a nuestra solución debido a la necesidad de verse bien y apropiados en eventos sin incurrir en los altos costos y el desperdicio asociado con la compra de ropa que rara vez se utiliza. Además, la conciencia creciente sobre la sostenibilidad en la moda y el deseo de reducir su huella ambiental también influyen en su elección.
+
+### 2. How much (cuánto)
+Permite cuantificar el objeto de la problemática en cuestión y, a menudo, evaluar la gravedad:
+
 
 ####     2.2. Lean UX Process
 
