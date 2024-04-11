@@ -156,6 +156,30 @@ En Change4All,, tenemos una visión ambiciosa para el futuro de la moda. Nos ima
 
 ### 2. **Solution Profile.**
 
+StyleShare es la solución innovadora de Change4All que permite alquilar prendas y accesorios de moda para eventos especiales. Con nuestra plataforma tenemos la idea de crear una comunidad donde los usuarios puedan encontrar prendas únicas y de calidad para ocasiones especiales sin la necesidad de comprarlas. De esa forma, no solo ahorran dinero, sino que también contribuyen a reducir el desperdicio de moda generado por la industria del fast fashion.
+### Características clave:
+
+- ** Filtros Avanzados de Búsqueda **: Ofrece una amplia gama de filtros para que los usuarios puedan buscar prendas y accesorios de manera rápida y específica, como por tipo de prenda, color, talla, ocasión, etc.
+
+- Perfiles de Usuario Personalizados: Permite a los usuarios crear perfiles detallados con sus preferencias de estilo, tallas y eventos futuros para recibir recomendaciones y sugerencias personalizadas.
+
+- Publicación de Prendas: Permite a los usuarios publicar sus prendas y accesorios para alquilar. Deben poder agregar fotos de alta calidad y descripciones detalladas. 
+
+- Asesoría sobre Moda Sostenible: Proporciona asesorías sobre moda sostenible a los usuarios, contando con la opción de contactar con un asesor en el caso se prefiera tener un trato mas personalizado. 
+
+- Sistema de Calificaciones y Reseñas: Implementa un sistema de calificación y reseñas para que los usuarios puedan evaluar la calidad de las prendas y la confiabilidad de otros usuarios.
+
+- Chat y Comunicación: Integra una función de chat para que los usuarios puedan comunicarse entre sí, coordinar detalles de intercambio y hacer preguntas sobre las prendas.
+
+- Sistema de Notificaciones: Mantén a los usuarios informados sobre las interacciones, nuevos mensajes, solicitudes de intercambio y actualizaciones relevantes.
+
+- Promoción de Prendas Destacadas: Permite a los usuarios destacar sus prendas mediante un sistema de promoción, lo que les ayudará a obtener más visibilidad.
+
+- Diferentes planes de suscripción: Permite a los usuarios adquirir un plan de suscripción con el cual recibirán beneficios únicos, tanto para los arrendadores como los arrendatarios
+
+- Historial de Intercambios: Proporciona a los usuarios un historial detallado de sus intercambios pasados, incluyendo detalles de las prendas y la fecha.
+
+
 ####     2.1. Antecedentes y Problemática
 
 ####     2.2. Lean UX Process
