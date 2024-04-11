@@ -9,13 +9,13 @@ width=50%"/>
 
 <h5 style="text-align: center"> Ingeniería de Software </h5>
 
-<h5 style="text-align: center"> Desarrollo de Aplicaciones Open Source - WS51 </h5>
+<h5 style="text-align: center"> Aplicaciones Web - WS51 </h5>
 
-<h5 style="text-align: center"> Docente: Juan Antonio Flores Moroco </h5>
+<h5 style="text-align: center"> Docente: Hugo Allan Mori Paiva </h5>
 
-<h5 style="text-align: center"> Startup: ... </h5>
+<h5 style="text-align: center"> Startup: Change4All </h5>
 
-<h5 style="text-align: center"> Producto: Event Wear </h5>
+<h5 style="text-align: center"> Producto: StyleShare </h5>
 
 ## Team members:
 | Nombre |Código|
