@@ -455,13 +455,27 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 
 ####     3.1. User Personas.
 
+![image](Images/UserPersona.PNG)
+
 ####     3.2. User Task Matrix.
+
+![image](Images/userTaskMatrix.PNG)
 
 ####     3.3. User Journey Mapping.
 
+![image](Images/JourneyMap.PNG)
+
 ####     3.4. Empathy Mapping.
 
+![image](Images/EmpathyMap.PNG)
+
 ####     3.5. As-is Scenario Mapping.
+
+![image](Images/AsIsSM.PNG)
+
+####     3.6. Ubiquitous Language.
+
+![image](Images/UbiquitousL.PNG)
 
 
 ## Capítulo III: Requirements Specification
