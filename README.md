@@ -425,6 +425,7 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 - ¿Donde suele buscar su ropa para eventos sociales?
 - ¿En alguna ocasiones le ha resultado difícil encontrar una prenda específica para algún evento?
 - ¿Cuál es el mayor desafío que usted se encuentra al momento de buscar la vestimenta adecuada para un evento social ?
+  
 **(Preguntas específicas para el segmento:)**
 - ¿Con qué frecuencia asistes a eventos sociales que requieren una vestimenta especial?
 - ¿Suele demorar en encontrar prendas a su gusto para asistir a estos tipos de eventos?
