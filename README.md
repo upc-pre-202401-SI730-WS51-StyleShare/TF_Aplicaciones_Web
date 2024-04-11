@@ -330,6 +330,38 @@ Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cant
 
 ### 3. **Segmentos objetivo.**
 
+Nuestro segmento objetivo lo conforman las personas las cuales asisten con mayor o menor frecuencia diferentes eventos especiales y buscan una manera rentable, eficiente y sostenible de obtener la prenda o accesorias que necesitan.
+Consumidores conscientes de la moda: Los usuarios pueden lucir bien en eventos especiales sin el gasto de tiempo y dinero, reduciendo el desperdicio de moda y contribuyendo a la sostenibilidad.
+#### **Segmento 1: Consumidores conscientes de la moda**
+##### Aspectos demográficos: 
+##### Sexo: Masculino y femenino
+##### Edades: Adultos entre 20 - 45 años
+##### Nacionalidad: Peruana
+##### Zona geográfica en la que viven: Urbana
+##### Departamento: Lima Metropolitana
+##### Aspectos psicográficos:
+- Disfrutan de asistir a una variedad de eventos sociales y especiales, como fiestas, bodas, cenas formales, eventos de negocios, etc.
+- Tienen un estilo de vida activo y socialmente comprometido, lo que los lleva a requerir una variedad de prendas.
+- Valoran la comodidad y la conveniencia, buscando soluciones prácticas y rentables para satisfacer sus necesidades de vestuario.
+- Están conscientes del impacto ambiental de la moda.
+- Desean lucir bien en eventos especiales sin incurrir en grandes gastos y contribuir al medio ambiente al reducir el desperdicio de moda.
+ 
+ 
+#### **Segmento 2: Propietarios de prendas y accesorios**
+ 
+##### Aspectos demográficos:
+##### Sexo: Masculino y femenino
+##### Edades: Adultos entre 30 – 60 años
+##### Nacionalidad: Peruana
+##### Zona geográfica en la que viven: Urbana
+##### Departamento: Lima Metropolitana
+##### Aspectos psicográficos:
+- Son personas que tienen una variedad de prendas y accesorios de moda.
+- Están interesados en contribuir a un enfoque más sostenible en la moda.
+- Desean generar ingresos adicionales alquilando artículos no utilizados.
+- Valorizan la comodidad y la conveniencia en el proceso de alquiler de sus prendas.
+- Están conscientes del impacto ambiental de la moda y desean contribuir a reducir el desperdicio de prendas.
+
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
