@@ -305,6 +305,20 @@ Los usuarios potenciales que podrían utilizar la solución EventWear :
 
 #####         **2.2.3.Lean UX Hypothesis Statements.**
 
+##### **Hypothesis Statement 1**:
+Creemos que, sí ofrecemos una página intuitiva y de fácil manejo a los usuarios que les interesa alquilar prendas y accesorios para eventos específicos, incrementaremos la satisfacción del cliente.
+Sabremos que tendremos éxito al observar un aumento del 20% de los usuarios activos después de 4 semanas de su lanzamiento y recibimos comentarios positivos sobre su fácil uso.
+##### **Hypothesis Statement 2**:
+Creemos que, así ofrecemos una variedad de prendas de alquiler con un precio competitivo en comparación con la compra de ropa para eventos especiales, motivamos a los usuarios a alquilar una prenda en nuestra plataforma
+Sabremos que tendremos éxito al observar un aumento del 10% de nuevos usuarios que prueban la aplicación y alquilan cualquier tipo de prenda en los primeros 3 meses, lo que indica que presentamos una propuesta con valor para el usuario
+##### **Hypothesis Statement 3**:
+Creemos que, si implementamos recomendaciones de prendas según los gusto de los usuarios, estos podrán encontrar nuevas prendas que podrían ser de su interés sin tener que hacer una búsqueda exhaustiva por los filtros de búsqueda de la plataforma.
+Sabremos que tendremos éxito al observar un aumento del 30% en el uso de recomendación personalidades por parte de todos los usuarios que utilizan la aplicación en un lapso de 6 meses después de estar disponible esta opción 
+##### **Hypothesis Statement 4**:
+Creemos que si colaboramos con tiendas locales de moda para ampliar nuestra oferta de prendas y accesorios disponibles para alquilar, aumentaremos la diversidad y atractivo de nuestro catálogo, lo que incentivará a más usuarios a utilizar nuestra plataforma. 
+Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cantidad de prendas y accesorios disponibles en nuestra plataforma a través de asociaciones con tiendas locales.
+
+
 #####         **2.2.4.Lean UX Canvas.**
 
 
