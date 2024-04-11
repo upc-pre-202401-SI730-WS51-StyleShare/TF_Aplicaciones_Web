@@ -378,6 +378,32 @@ Consumidores conscientes de la moda: Los usuarios pueden lucir bien en eventos e
 ##### Rent the Runaway: Plataforma que permite acceder a suscripciones por distintos precios, con las cuales se puede rentar una cantidad definida e items y mantenerlos mientras se siga siendo socio
 [Rent the Runaway](https://www.renttherunway.com/)
 
+### Análisis de Competencia
+
+##### ¿Por qué llevar a cabo este análisis?
+Este análisis se llevará a cabo para tener una idea de qué clase de tácticas usa la competencia, así como tener en claro sus puntos fuertes y débiles. Todo esto con el objetivo de diseñar una estrategia que ayude a nuestra marca a sobresalir.
+
+##### Comparativa con Competidores
+
+|               | StyleShare                                                    | Olibati                                                             | My Wardrobe HQ                                                              | Rent the Runaway                                               |
+|---------------|--------------------------------------------------------------|--------------------------------------------------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| **Perfil**    |                                                              |                                                                    |                                                                                      |                                                                 |
+| **Overview**  | Servicio para alquilar ropa, el cual permite conseguir suscripciones tanto para los compradores como para los vendedores | Página web desde la que se puede rentar ropa, o en caso se desee, comprarla por un precio más alto | Página web desde la cual puedes rentar o comprar ropa, y la que además cuenta con suscripciones para sus usuarios        | Servicio que por medio de suscripciones permite a los usuarios rentar distintas ropas según su nivel de suscripcion |
+| **Ventaja competitiva** ¿Qué valor ofrece a los clientes? |   Los usuarios pueden acceder a una amplia variedad de ropas. Permitiendo al servicio ser útil en toda ocasión   |  Las usuarias pueden poner en alquiler su propia ropa, además de recibir ingresos del 25% cada vez que sus vestidos sean alquilados  |  Los clientes pueden elegir distintos tipos de ropa para alquilar por seis días, para usarla como deseen antes de decolverla | Otorga opciones de suscripción, las cuales les permiten acceder a una cantidad de ítems que pueden llevar de manera gratis a cada mientras tengan la suscripción activa   |  |
+| **Perfil de Marketing** |                                                              |                                                                    |                                                                                      |                                                                 |
+| **Mercado objetivo** | Personas que necesitan conseguir de manera rápida y barata ropa para asistir a un evento | Mujeres que necesitan obtener un vestido para asistir a un evento, o que desean ganar dinero con ropa que utilizan poco                         | Mujeres en busca de algún nuevo look para salir a un evento o a pasear durante una semana                                                      | Personas que deseen probar distintos tipos de ropa y tener una amplia libertad para elegir cuánto tiempo tenerla          |
+| **Estrategias de Marketing** | Colaboraciones con marcas de moda sostenible y diseñadores | Mostrar la variedad de vestidos que poseen                                                                                        | Mostrar los distintos tipos de ropas que se pueden alquilar, además de incentivar el cuidado del planeta                                             | Contactos con diseñadores reconocidos, y un generoso plan de suscripción  |
+| **Perfil de Producto** |                                                              |                                                                    |                                                                                      |                                                                 |
+| **Productos y Servicios** | Servicio de alquiler de ropa | Alquiler de vestidos | Alquiler de ropa | Alquiler de ropa |
+| **Precios y Costos** | Precio variable según el usuario que coloca la ropa en alquiler | Los precios se dan según el vestido | Aproximadamente menos de un tercio del precio de venta | Membresías desde 95 dólares al mes |
+| **Canales de Distribución** | Página web, cita en su local | Página web | Página web | Página web |
+| **Análisis FODA** |                                                              |                                                                    |                                                                                      |                                                                 |
+| **Fortalezas** | Amplia variedad de ropa que el usuario puede elegir. Además de sistema para calificar al vendedor | Amplia cantidad de vestidos y variedad en ellos | Variedad de ropa y tallas que se pueden alquilar | Oportunidad de cambiar el modelo alquilado por otro rápidamente y sin costo |
+| **Debilidades** | Los nuevos usuarios sin ventas realizadas podrían dar poca confianza sobre la seguridad del servicio | Centrarse mayormente en solo vestidos para eventos | Hay algunas tallas que tienen poca variedad de ropa disponible | Los precios pueden llegar a ser demasiado caros |
+| **Oportunidades** | Amplia cantidad de personas que necesitan ropa formal para un uso rápido | Gran cantidad de mujeres que desean verse bien para un evento, pero no cuentan con el dinero necesario para comprar un vestido | Amplia cantidad de personas que desean probar un nuevo look por un precio no demasiado alto | Personas con buena cantidad de dinero y que desean cambiar constantemente de ropa |
+| **Amenazas** | Negocios de alquiler de ropa más conocidos y con mayor prestigio | Negocios que vendan vestidos de buena calidad a un bajo precio | Otros negocios con mayor variedad de ropas | Otros negocios con precios más accesibles |
+
+
 ####     1.2. Estrategias y tácticas frente a competidores.
 
 
