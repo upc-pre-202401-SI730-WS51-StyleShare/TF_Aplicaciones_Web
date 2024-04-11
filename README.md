@@ -24,7 +24,7 @@ width=50%"/>
 |More Rondon, Christopher Sebastian|U202212199|
 |Cortez Quezada, Joaquin Antonio|U202212648|
 |Ramos Najar, Tony Alenxander|U20211A153|
-|||
+|Agama Espinoza, Eric Fabrizio|U202213358|
 
 
 <h5 style="text-align: center"> Ciclo 2024-01 </h5>
@@ -149,7 +149,7 @@ En Change4All,, tenemos una visión ambiciosa para el futuro de la moda. Nos ima
 | Nombre                           | Descripción                                                                                                                                   |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | Christopher Sebastian More Rondon (U202212199) ![image](Images/integrante1.PNG)| Me llamo Christopher More, soy estudiante de quinto ciclo de Ingeniería de Software. Soy creativo e ingenioso para resolver problemas creando programas. Siempre intento completar las tareas a tiempo y asegurarme de que se encuentren bien hechas |
-|  |             |
+|Eric Fabrizio Agama Espinoza (u202213358) ![image](Images/Integrante2.jpg) | Mi nombre es Eric Agama y estudio la carrera de Ingeniería de Software. Me considero una persona creativa a la hora de realizar trabajos y buscando siempre las mejores opciones para el equipo. Manejo el lenguaje Luau Roblox Studio.              |             |
 |              |          |
 | Tony Alexander Ramos Najar (u20211a153)  ![image](Images/integrante4.PNG)      | Mi nombre es Tony Ramos, estoy cursando el 7mo ciclo de la carrera de Ingeniería de Software. Me considero hábil en el ámbito de la programación en los lenguajes, Python, Javascript, y últimamente estoy aprendiendo Angular. Con respeto a mi, me considero una persona responsable, con ganas de aprender y a superarme a mi mismo. |
 | Joaquin Antonio Cortez Quezada (u202212648)  ![image](Images/integranteJ.PNG)      | Mi nombre es Joaquín Antonio Cortez Quezada, tengo 19 años y actualmente estoy  cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me considero una persona perseverante, responsable, empática en cualquier ámbito de mi vida, ya sea en el aspecto académico. |
