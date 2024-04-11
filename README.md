@@ -43,8 +43,8 @@ width=50%"/>
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|----------------------|--------------|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| Adriano Sebastian Cruz Palomino<br><b>TB1</b><br>...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Christopher Sebastian More Rondon<br><b>TB1</b><br> ...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Joaquin Antonio Cortez Quezada<br><b>TB1</b><br>...<br><br>Tony Alenxander Ramos Najar<br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|Adriano Sebastian Cruz Palomino<br><b>TB1</b><br>...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Christopher Sebastian More Rondon<br><b>TB1</b><br> ...<br><br>Alexander Jair Castillo Castillo<br><b>TB1</b><br>...<br><br>Joaquin Antonio Cortez Quezada<br><b>TB1</b><br>...<br><br>Tony Alenxander Ramos Najar<br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| <br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br> ...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|<br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br> ...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
 
 ## Contenido
 
