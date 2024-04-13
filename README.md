@@ -481,11 +481,37 @@ San Miguel
 #### Duración: 
 3:35
 #### Resumen:
-El entrevistado suele realizar sus compran en gamarra, o en distintas tiendas de marcas, por lo que generalmente no tiene problemas para encontrar prendas. Respecto al alquiler de ropa, se encuentra interesado exclusivamente en el alquiler de ropa que sea usada en ocasiones especiales, como por ejemplo un terno, debido a que no suelen ser usadas frecuentemente. Finalmente, coincide en que el alquiler de ropa ayuda a disminuir la contaminación, siendo algo especialmente necesario en estos tiempos debido a la amenaza de la contaminación
+El entrevistado suele realizar sus compran en gamarra, o en distintas tiendas de marcas, por lo que generalmente no tiene problemas para encontrar prendas. Respecto al alquiler de ropa, se encuentra interesado exclusivamente en el alquiler de ropa que sea usada en ocasiones especiales, como por ejemplo un terno, debido a que no suelen ser usadas frecuentemente. Finalmente, coincide en que el alquiler de ropa ayuda a disminuir la contaminación, siendo algo especialmente necesario en estos tiempos debido a la amenaza de la contaminación.
 
+
+##### *Entrevista 3:*
+*Segmento 2*
+#### Sexo: 
+Femenino
+#### Edad: 
+25
+#### Ubicación: 
+Ate Vitarte
+#### Link:
+[Entrevista3](https://youtu.be/gAE-CfzRKqs)
+#### Duración: 
+3:42
+#### Resumen: 
+La entrevista fue con Sandy Ingaruca, de 25 años, quien busca su ropa para eventos sociales en tiendas locales y en línea, priorizando marcas que se ajusten a su estilo. A veces le resulta difícil encontrar prendas específicas para eventos. Se motivó a considerar el alquiler de sus prendas para ganar dinero extra y reducir el desperdicio de moda. Estaría dispuesta a alquilar prendas como vestidos de fiesta, trajes formales, y accesorios. Cree que al alquilar sus prendas puede contribuir a reducir el desperdicio de moda. Considera importante la sostenibilidad y la ecoconciencia al decidir alquilar sus prendas.
 
 
 ####     2.3. Análisis de entrevistas.
+
+
+#### **Entrevista 1:**
+Nicolas: Se destaca su preferencia por marcas conocidas y la importancia que otorga a los materiales de las prendas, prefiriendo evitar materiales sintéticos. También se menciona que en sus reuniones con amigos suele vestir de forma casual, ya que las ocasiones formales son poco habituales para él. En cuanto al alquiler de ropa, parece estar más enfocado en prendas para ocasiones especiales como un terno, que no suele usar con frecuencia.
+
+#### **Entrevista 2:**
+Franco: Este entrevistado suele comprar en lugares específicos como Gamarra y tiendas de marcas, lo que facilita encontrar prendas. Está interesado en el alquiler de ropa para ocasiones especiales, como un terno, que no se usaría con frecuencia. Coincide en que el alquiler de ropa puede ayudar a reducir la contaminación, lo que muestra su conciencia ambiental.
+
+#### **Entrevista 3:**
+Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tiendas locales y en línea, buscando marcas que se ajusten a su estilo. A veces le resulta difícil encontrar prendas específicas para eventos, lo que puede reflejar una mayor exigencia en cuanto a sus elecciones de vestuario. Se destaca su motivación para considerar el alquiler de prendas, que incluye ganar dinero extra y reducir el desperdicio de moda. Está dispuesta a alquilar prendas para ocasiones especiales y considera importante la sostenibilidad al decidir alquilar sus prendas.
+
 
 
 ### 3. **Needfinding.**
