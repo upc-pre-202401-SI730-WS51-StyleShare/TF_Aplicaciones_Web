@@ -683,7 +683,33 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 #####         **2.1.4. Testing Suite Evidence for Sprint Review.**
 ....
 #####         **2.1.5. Execution Evidence for Sprint Review.**
-....
+
+En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up.
+
+Sección home:
+
+![Images](Images/inicio1.png)
+<br>
+
+![Images](Images/inicio2.png)
+
+Sección Planes:
+
+Sección Nosotros:
+
+![Images](Images/Nosotros.png)
+
+Sección Iniciar Sesión:
+
+![Images](Images/INICIOSESION.png)
+
+Sección Colaboración:
+
+![Images](Images/COLABORACION1.png)
+<br>
+
+![Images](Images/COLABORACION2.png)
+
 #####         **2.1.6. Services Documentation Evidence for Sprint Review.**
 ....
 #####         **2.1.7. Software Deployment Evidence for Sprint Review.**
