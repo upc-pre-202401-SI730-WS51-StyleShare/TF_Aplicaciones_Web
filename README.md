@@ -546,9 +546,7 @@ El entrevistado suele realizar sus compran en gamarra, o en distintas tiendas de
 |---------------|-------|---------|-------|
 | Título        | Registro de usuario |   |
 | Descripción   | Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades. |   |
-
-**Criterios de aceptación:**
-
+| **Criterios de aceptación:** |
 | Escenario 1: Registro de cuenta con Gmail  |
 |-------------------------------------------|
 | Dado que el usuario se quiere registrar en la web |
