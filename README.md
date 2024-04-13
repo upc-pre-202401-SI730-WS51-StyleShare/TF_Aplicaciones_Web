@@ -546,7 +546,7 @@ El entrevistado suele realizar sus compran en gamarra, o en distintas tiendas de
 |---------------|-------|---------|-------|
 | Título        | Registro de usuario |   |
 | Descripción   | Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades. |   |
-| **Criterios de aceptación:** |
+**Criterios de aceptación:**
 | Escenario 1: Registro de cuenta con Gmail  |
 |-------------------------------------------|
 | Dado que el usuario se quiere registrar en la web |
@@ -555,6 +555,24 @@ El entrevistado suele realizar sus compran en gamarra, o en distintas tiendas de
 | Y selecciona la opción “Continuar registro” |
 | Cuando aparece el nuevo apartado de datos ingresa su información personal, como nombre, zona de residencia, número telefónico y contraseña |
 | Entonces la aplicación web registra el usuario y lo redirige a la pantalla principal. |
+
+<br><br>
+
+| User Story ID | US01  | Epic ID | EP01  |
+|---------------|-------|---------|-------|
+| Título        | Registro de usuario |   |
+| Descripción   | Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades. |   |
+**Criterios de aceptación:**
+| Escenario 1: Registro de cuenta con Gmail  |
+|-------------------------------------------|
+| Dado que el usuario se quiere registrar en la web |
+| Cuando selecciona la opción “Registrarse” en la pantalla de registros |
+| Y ingresa su Gmail personal |
+| Y selecciona la opción “Continuar registro” |
+| Cuando aparece el nuevo apartado de datos ingresa su información personal, como nombre, zona de residencia, número telefónico y contraseña |
+| Entonces la aplicación web registra el usuario y lo redirige a la pantalla principal. |
+
+<br><br>
 
 
 
