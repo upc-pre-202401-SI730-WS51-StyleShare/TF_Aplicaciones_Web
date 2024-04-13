@@ -444,9 +444,46 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 - ¿Qué lo motivó a considerar la idea de alquilar sus prendas y accesorios?
 - ¿Qué tipo de prendas y accesorios estaría dispuesto a alquilar?
 - ¿Considera que al poner sus prendas en alquiler puede contribuir a reducir el desperdicio de moda?
+- ¿Cómo crees que el alquiler de tus prendas y accesorios podría beneficiarte?
+- ¿Qué tan importante es para ti la sostenibilidad y la ecoconciencia al decidir alquilar tus prendas y accesorios?
+
 
 
 ####     2.2. Registro de entrevistas.
+
+
+##### *Entrevista 1:* 
+*Segmento 1*
+#### Sexo: 
+Masculino
+#### Edad: 
+22
+####Ubicación: 
+Pueblo Libre
+#### Link: 
+[Entrevista1](https://drive.google.com/file/d/1tr9UEtZp96kZAB-MYiY1wwgAIN4c8L-n/view?usp=sharing)
+#### Duración: 
+2:50
+#### Resumen: 
+Nicolas suele buscar sus prendas en las marcas que ya conoce y ha probado, en pocas ocasión no ha podido encontrar la prenda deseada para un conjunto de vestimenta en específico, en estos casos tuvo que cambiar por completo su idea principal de vestimenta. Cada que quiere una prenda siempre se fija en los materiales, siempre descartando materiales sintéticos, por eso considera importante revisar el porcentaje de algodón en una prenda ya que influye en su decisión al momento de comprar. Por otro lado, en las reuniones a las que asiste con amistades suele asistir con ropa casual y debía a que, solamente estudiando, las reuniones con ropa formal son muy poco habituales 
+
+
+##### *Entrevista 2:* 
+*Segmento 2*
+#### Sexo: 
+Masculino
+#### Edad: 
+19
+#### Ubicación: 
+San Miguel
+#### Link:
+[Entrevista2](https://drive.google.com/file/d/1VR7aKPYC2SbDGGKgvwq5vhcAfPMW6kuM/view?usp=sharing)
+#### Duración: 
+3:35
+#### Resumen:
+El entrevistado suele realizar sus compran en gamarra, o en distintas tiendas de marcas, por lo que generalmente no tiene problemas para encontrar prendas. Respecto al alquiler de ropa, se encuentra interesado exclusivamente en el alquiler de ropa que sea usada en ocasiones especiales, como por ejemplo un terno, debido a que no suelen ser usadas frecuentemente. Finalmente, coincide en que el alquiler de ropa ayuda a disminuir la contaminación, siendo algo especialmente necesario en estos tiempos debido a la amenaza de la contaminación
+
+
 
 ####     2.3. Análisis de entrevistas.
 
@@ -481,7 +518,15 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 ## Capítulo III: Requirements Specification
 
 ### 1. **To-Be Scenario Mapping.**
-....
+
+| Fase                                | Doing                                                                                                                                                 | Thinking                                                                                                           | Feeling                                                                                             |
+|-------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| **Registrarse en StyleShare**       | - Me registro desde un dispositivo en la aplicación “StyleShare”. - Relleno los datos solicitados y me creo una cuenta. - Inicio sesión.           | - El diseño de la interfaz me agrada. - Debo enfocarme en buscar ropa de buena calidad.                           | - Ansiosa por explorar las funciones y opciones que me ofrece la aplicación.                          |
+| **Búsqueda de prendas de vestir**   | - Utilizo filtros de búsqueda y las categorías para minimizar la cantidad de productos y ahorrar tiempo.                                            | - La gran variedad de filtros puede ayudar a encontrar lo que quiera de manera mucho más rápida.                   | - Ansiosa por encontrar la ropa que necesito.                                                       |
+| **Selección de ropa**               | - Selecciono una prenda de mi interés y veo sus detalles. - Selecciono la opción de compartir con amigos para que puedan darme sus opiniones.       | - Debo comprar de los vendedores más destacados para no sufrir pérdidas y obtener buena calidad de ropa.          | - Desesperada por encontrar un vendedor con buenos comentarios.                                       |
+| **Finalización de la transacción**  | - Verifico si el vendedor es confiable mediante su historial de ventas. - Me decido y realizo el pago, seleccionando el tipo de entrega como delivery. | - Ahora puedo usar estilos de ropa variados, pagando un precio menor y ahorrando tiempo.                         | - Alegre por conocer un arrendador fiable en el cual puedo confiar para conseguir más prendas.     |
+
+
 ### 2. **User Stories.**
 ....
 ### 3. **Impact Mapping.**
