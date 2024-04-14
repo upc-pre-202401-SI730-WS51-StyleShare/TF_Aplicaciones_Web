@@ -1263,8 +1263,15 @@ El usuario se moverá entre distintas pantallas usando los botones presentas en 
 ### 4.4. **Web Applications UX/UI Design.**
 ####    4.4.1. Web Applications Wireframes.
 ![WebAppWireframe](Images/WireframeWebApp.png)
-####    4.4.2.. Web Applications Wireflow Diagrams.
 
+####    4.4.2.. Web Applications Wireflow Diagrams.
+![WireflowWebApp](Images/Wireflow1.png)
+![WireflowWebApp](Images/Wireflow2.png)
+![WireflowWebApp](Images/Wireflow3.png)
+![WireflowWebApp](Images/Wireflow4.png)
+![WireflowWebApp](Images/Wireflow5.png)
+![WireflowWebApp](Images/Wireflow6.png)
+![WireflowWebApp](Images/Wireflow7.png)
 
 ####    4.4.2. Web Applications Mock-ups.
 ![WebAppMockUp](Images/WebAppMockUp.png)
@@ -1278,8 +1285,10 @@ El usuario se moverá entre distintas pantallas usando los botones presentas en 
 ![UserGoal](Images/UserGoal6.png)
 
 [**Miro Users Goals Web Application**](https://miro.com/app/board/uXjVKWB7Y98=/)
+
 ### 4.5 **Web Applications Prototyping.**
-....
+[**Figma Web Application**](https://www.figma.com/proto/7Mp7dcTqoQm2soCJln7Hmv/StyleShare?type=design&node-id=4644-2&t=4TceG8kvgTzI5J0p-1&scaling=min-zoom&page-id=10%3A2&starting-point-node-id=4644%3A2)
+
 ### 4.6. **Domain-Driven Software Architecture.**
 ####    4.6.1. Software Architecture Context Diagram.
 ....
