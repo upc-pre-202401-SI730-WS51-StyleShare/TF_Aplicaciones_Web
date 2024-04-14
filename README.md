@@ -1463,8 +1463,20 @@ GitHub permite que múltiples desarrolladores trabajen simultáneamente en el mi
 | GW06 | Implementacin de Javascript | G06 | Implementacin de Javascript (Desarrollado en HTML y JS)| Desarrollo e implementación de animaciones. Debe ser responsive. | 3| Eric Agama | Done|
 | GW07 | Incio de sesion     | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los planes de la página. Debe ser responsive.  | 3| Tony Alexander | Done|
 | GW08 | Apartado encabezado    | G08 | Desarrollo responsive de la página| Desarrollo e implementación de un estilo responsive en toda la página.| 2| Eric Agama  | Done|
+
 #####         **5.2.1.3. Development Evidence for Sprint Review.**
-....
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| LandingPage |main/sign_in.html |55064b6| Create sign_in.html| -| 12/04/2024         |
+| LandingPage |main/style/style.css|425cbfc| Add files via upload| -| 13/04/2024|
+| LandingPage |main/Collaboration.html|7cc0929| Add files via upload| -| 12/04/2024|
+| LandingPage |main/scripts/script.js |9391f88| Implementacion de javascript | -| 14/04/2024|
+| LandingPage |main/style/style3.css|cdccf9b| Implementacion css sign_in | -|14/04/2024|
+| LandingPage |main/style/style2.css|d785cfd| Style Colaboraciones | -|14/04/2024|
+| LandingPage |main/sign_in.html |889bdaa| Update sign_in css | -|14/04/2024|
+| LandingPage |main/Collaboration.html|a40b0ac|Update Collaboration implement css| -|14/04/2024|
+
+
 #####         **5.2.1.4. Testing Suite Evidence for Sprint Review.**
 ....
 #####         **5.2.1.5. Execution Evidence for Sprint Review.**
