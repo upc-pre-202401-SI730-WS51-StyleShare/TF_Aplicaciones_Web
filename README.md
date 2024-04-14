@@ -1037,6 +1037,131 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 | Cuando desee comenzar el proceso, |
 | Entonces debería encontrar un formulario de solicitud o instrucciones claras sobre cómo enviar mi propuesta de colaboración, incluyendo detalles sobre la información y documentos necesarios. |
 
+<br><br>
+
+| User Story ID | US23  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Footer” |   |
+| Descripción   | Como usuario del sitio web, quiero que el footer ofrezca accesos directos a información relevante y recursos adicionales para mejorar mi experiencia de navegación y asegurar que encuentro fácilmente lo que necesito. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Inclusión de Elementos Esenciales  |
+|-------------------------------------------|
+| Dado que busco información esencial al final de la página, |
+| Cuando navego al footer del sitio, |
+| Entonces debo encontrar enlaces a las páginas de "Política de privacidad", "Términos y condiciones", "Contacto", y "Sobre nosotros". |
+|-------------------------------------------|
+| Escenario 2: Accesibilidad a Redes Sociales  | 
+| Dado que deseo seguir a la empresa en redes sociales, |
+| Cuando miro el footer, |
+| Entonces debería ver íconos de redes sociales que enlacen directamente a los perfiles oficiales de la empresa en estas plataformas. |
+|-------------------------------------------|
+| Escenario 3: Navegación Secundaria  | 
+| Dado que quiero explorar más contenido sin volver al menú principal, |
+| Cuando busco más opciones de navegación, |
+| Entonces el footer debería incluir enlaces a otras secciones importantes del sitio web como "Productos", "Servicios", "Eventos" y "Blog". |
+
+<br><br>
+
+| User Story ID | US24  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Inicia Sesión” |   |
+| Descripción   | Como usuario del sitio web, quiero que la sección de inicio de sesión sea fácilmente accesible desde cualquier página, para poder acceder rápidamente a mi cuenta y utilizar las funcionalidades relacionadas. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Acceso Rápido  |
+|-------------------------------------------|
+| Dado que quiero iniciar sesión rápidamente, |
+| Cuando busco la sección de inicio de sesión, |
+| Entonces debo encontrar un enlace visible en el header o en el footer de la página que me lleve a la página de inicio de sesión. |
+|-------------------------------------------|
+| Escenario 2: Facilidad de Uso  | 
+| Dado que deseo utilizar mi cuenta en diferentes dispositivos, |
+| Cuando intento iniciar sesión, |
+| Entonces debo poder hacerlo de forma sencilla, con un formulario claro y accesible. |
+|-------------------------------------------|
+| Escenario 3: Recordar Sesión  | 
+| Dado que prefiero no tener que iniciar sesión repetidamente, |
+| Cuando utilizo la función "Recordar Sesión", |
+| Entonces mi sesión debe mantenerse activa en el dispositivo que estoy utilizando, para que no tenga que volver a iniciar sesión cada vez que accedo al sitio. |
+
+<br><br>
+
+| User Story ID | US25  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Conoce más #1” |   |
+| Descripción   | Como usuario, quiero conocer más sobre StyleShare |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1:  |
+|-------------------------------------------|
+| Dado que un usuario busca información detallada sobre StyleShare, |
+| Cuando accede a la sección “Conoce Más” |
+| Entonces debe encontrar facilmente la informacion sobre la mision, vision y valores de la empresa |
+
+<br><br>
+
+| User Story ID | US26  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Conoce más #2” |   |
+| Descripción   | Como usuario, quiero conocer más sobre los Consumidores y Arrendadores de StyleShare |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Acceso Rápido  |
+|-------------------------------------------|
+| Dado que un usuario quiere conocer mas sobre la comunidad de StyleShare, |
+| Cuando accede a la sección “Comunidad” en “Conoce mas” |
+| Entonces debe poder ver perfiles de usuario destacados de manera atractiva y facil de navegar |
+
+<br><br>
+
+| User Story ID | US27  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Conoce más #3” |   |
+| Descripción   | Como usuario, quiero conocer más sobre Contaminación y Sostenibilidad en la Industria de la Moda |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Acceso Rápido  |
+|-------------------------------------------|
+| Dado que un usuario está interesado en la sostenibilidad en la moda, |
+| Cuando accede a la sección “Sostenibilidad” en “Conoce más” |
+| Entonces debe encontrar información clara y educativa sobre el impacto ambiental de la industria de la moda |
+
+<br><br>
+
+### Epics:
+
+| EP01 : Como usuario quiero tener un registro y configuración del perfil del usuario  |
+|--------------------------------------------------------------------------------------|
+
+| EP02 : Como usuario quiero poder buscar la prenda que me interesa.  |
+|--------------------------------------------------------------------------------------|
+
+| EP03 : Como usuario quiero obtener información detallada la prenda de mi interés  |
+|--------------------------------------------------------------------------------------|
+
+| EP04 : Como usuario quiero poder realizar el alquiler de una prenda  |
+|--------------------------------------------------------------------------------------|
+
+| EP05 : Como usuario quiero tener la opción de publicar mis prendas  |
+|--------------------------------------------------------------------------------------|
+
+| EP06 : Como usuario, quiero acceso a un servicio de soporte al cliente eficaz  |
+|--------------------------------------------------------------------------------------|
+
+| EP07 : Como usuario, quiero visitar el landing page de la pagina web  |
+|--------------------------------------------------------------------------------------|
+
+| EP08 : FALTA Technical Stories para los features del RESTful API. En ese caso, utilice el rol Developer en la redacción de la descripción de la User Story. Considere como Acceptance Criteria los posibles escenarios de interacción de request/response, siguiendo la estructura de Gherkin  |
+|--------------------------------------------------------------------------------------------------------|
+
+
+
 ### 3. **Impact Mapping.**
 ....
 ### 4. **Product Backlog.**
