@@ -131,9 +131,9 @@ width=50%"/>
 
 ## Capítulo I: Introducción.
 
-### 1. **Startup Profile.**
+### 1.1. **Startup Profile.**
 
-####     1.1.   Descripción del startup
+####     1.1.1.   Descripción del startup
 
 En Change4All, nos dedicamos a transformar la manera en que te vistes para eventos especiales. Nuestra innovadora plataforma, StyleShare ,ofrece una experiencia única en el mundo de la moda. Reconocemos los desafíos de encontrar la vestimenta adecuada para cada ocasión, que puede tomarte mucho tiempo,  resultar costosa y poco sostenible. Por eso, hemos desarrollado una solución digital que te permite alquilar prendas, accesorios y calzado de alta calidad por períodos específicos. En StyleShare, nuestro objetivo es que te sientas increíble en cada evento sin comprometer tu estilo ni tu presupuesto.
 
@@ -144,7 +144,7 @@ En Change4All, nuestra misión es clara: proporcionarte una manera inteligente y
 En Change4All,, tenemos una visión ambiciosa para el futuro de la moda. Nos imaginamos liderando el cambio en la forma en que las personas se relacionan con la ropa para eventos en todo el mundo. Visualizamos un mundo en el que el alquiler de prendas sea tan común como comprarlas, donde la moda sea accesible, sostenible y emocionante. Con StyleShare, aspiramos a ser la plataforma global líder en alquiler de prendas y accesorios, inspirando a una comunidad de usuarios a adoptar la moda de una manera nueva y consciente".
 
 
-####     1.2. Perfiles de los integrantes del equipo
+####     1.1.2. Perfiles de los integrantes del equipo
 
 | Nombre                           | Descripción                                                                                                                                   |
 |----------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
@@ -154,7 +154,7 @@ En Change4All,, tenemos una visión ambiciosa para el futuro de la moda. Nos ima
 | Tony Alexander Ramos Najar (u20211a153)  ![image](Images/integrante4.PNG)      | Mi nombre es Tony Ramos, estoy cursando el 7mo ciclo de la carrera de Ingeniería de Software. Me considero hábil en el ámbito de la programación en los lenguajes, Python, Javascript, y últimamente estoy aprendiendo Angular. Con respeto a mi, me considero una persona responsable, con ganas de aprender y a superarme a mi mismo. |
 | Joaquin Antonio Cortez Quezada (u202212648)  ![image](Images/integranteJ.PNG)      | Mi nombre es Joaquín Antonio Cortez Quezada, tengo 19 años y actualmente estoy  cursando el 5to ciclo de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas). Me considero una persona perseverante, responsable, empática en cualquier ámbito de mi vida, ya sea en el aspecto académico. |
 
-### 2. **Solution Profile.**
+### 1.2. **Solution Profile.**
 
 StyleShare es la solución innovadora de Change4All que permite alquilar prendas y accesorios de moda para eventos especiales. Con nuestra plataforma tenemos la idea de crear una comunidad donde los usuarios puedan encontrar prendas únicas y de calidad para ocasiones especiales sin la necesidad de comprarlas. De esa forma, no solo ahorran dinero, sino que también contribuyen a reducir el desperdicio de moda generado por la industria del fast fashion.
 ### Características clave:
@@ -180,7 +180,7 @@ StyleShare es la solución innovadora de Change4All que permite alquilar prendas
 - **Historial de Intercambios**: Proporciona a los usuarios un historial detallado de sus intercambios pasados, incluyendo detalles de las prendas y la fecha.
 
 
-####     2.1. Antecedentes y Problemática
+####     1.2.1. Antecedentes y Problemática
 
 ### Los 5 'W' y 2 'H'
 
@@ -244,15 +244,15 @@ Las personas llegan a nuestra solución debido a la necesidad de verse bien y ap
 Permite cuantificar el objeto de la problemática en cuestión y, a menudo, evaluar la gravedad:
 
 
-####     2.2. Lean UX Process
+####     1.2.2. Lean UX Process
 
-#####         **2.2.1.Lean UX Problem Statements.**
+#####         **1.2.2.1.Lean UX Problem Statements.**
 
 Hemos identificado que las personas que buscan vestimenta para eventos especiales a menudo enfrentan el desafío de gastar más tiempo del que desean para buscar prendas con las cuales asistir a eventos, aparte les genera un gastos excesivos y acumulación de prendas poco utilizadas en sus armarios. Esto puede llevar a una experiencia frustrante y poco sostenible en la industria de la moda.
 ##### ¿Cómo podremos brindarles a las personas una solución que les permite ahorra tiempo y dinero al momento de buscar prendas para eventos específicos sin contribuir al desperdicio de la moda?
 Nuestra solución aborda este problema al proporcionar una plataforma de aplicación web que permite a los usuarios alquilar y rentar prendas y/o accesorios de moda para eventos especiales. A través de una amplia variedad de opciones, una interfaz amigable y opciones de alquiler flexibles.
 
-#####         **2.2.2.Lean UX Assumptions.**
+#####         **1.2.2.2.Lean UX Assumptions.**
 
 ##### **Business Assumptions**:
 - Existe una demanda en el mercado de soluciones tecnológicas que faciliten el alquiler de prendas y accesorios de moda.
@@ -303,7 +303,7 @@ Los usuarios potenciales que podrían utilizar la solución EventWear :
 - Soporte al Cliente Eficaz: Suponemos que los usuarios pueden tener preguntas o problemas durante su experiencia en la plataforma. Por lo tanto, debemos ofrecer opciones de soporte al cliente eficaces, como chat en vivo o asistencia por correo electrónico, para ayudar a los usuarios con sus consultas.
 
 
-#####         **2.2.3.Lean UX Hypothesis Statements.**
+#####         **1.2.2.3.Lean UX Hypothesis Statements.**
 
 ##### **Hypothesis Statement 1**:
 Creemos que, sí ofrecemos una página intuitiva y de fácil manejo a los usuarios que les interesa alquilar prendas y accesorios para eventos específicos, incrementaremos la satisfacción del cliente.
@@ -319,7 +319,7 @@ Creemos que si colaboramos con tiendas locales de moda para ampliar nuestra ofer
 Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cantidad de prendas y accesorios disponibles en nuestra plataforma a través de asociaciones con tiendas locales.
 
 
-#####         **2.2.4.Lean UX Canvas.**
+#####         **1.2.2.4.Lean UX Canvas.**
 
 | Lean UX Canvas | Título: EventWear | Fecha: 28/03/24 |
 |---------------------|----------------------|--------------|
@@ -328,7 +328,7 @@ Sabremos que hemos tenido éxito cuando observamos un aumento del 30% en la cant
 | Hypothesis<br><br><br> - Creemos que sí ofrecemos una variedad diversa y actualizada de prendas y accesorios de moda en nuestra plataforma, aumentaremos la satisfacción del cliente y la probabilidad de alquileres repetidos.<br> - Creemos que al colaborar con marcas sostenibles y locales, podremos ampliar nuestra oferta de productos y atraer a un público más amplio y consciente de la sostenibilidad.| What's the most important thing we need to learn first?<br><br><br> - Aprender sobre las opciones de alojamiento web y servidores para asegurarse de que puedan manejar la carga de usuarios y la cantidad de datos necesaria para la plataforma.<br> - Adquirir conocimientos en diseño de UX y UI para crear una interfaz de usuario intuitiva y atractiva que mejore la experiencia de los usuarios al interactuar con la plataforma.<br> - Adquirir habilidades en pruebas y depuración de software para identificar y corregir errores y problemas antes de lanzar la plataforma al público.| What's the least amount of work we need to do to learn the next most important thing?<br><br><br> - Desarrollar prototipos del producto de software para brindar un primer acercamiento de cómo se verá y funcionará el programa.<br> - Realizar un análisis del público objetivo mediante el uso de entrevistas de usuario para conocer sus opiniones y puntos de vista.<br> - Familiarizarse con los lenguajes, frameworks y entre otras herramientas de programación que puedan ser vitales para el desarrollo del producto.|
 
 
-### 3. **Segmentos objetivo.**
+### 1.3. **Segmentos objetivo.**
 
 Nuestro segmento objetivo lo conforman las personas las cuales asisten con mayor o menor frecuencia diferentes eventos especiales y buscan una manera rentable, eficiente y sostenible de obtener la prenda o accesorias que necesitan.
 Consumidores conscientes de la moda: Los usuarios pueden lucir bien en eventos especiales sin el gasto de tiempo y dinero, reduciendo el desperdicio de moda y contribuyendo a la sostenibilidad.
@@ -365,9 +365,9 @@ Consumidores conscientes de la moda: Los usuarios pueden lucir bien en eventos e
 
 ## Capítulo II: Requirements Elicitation & Analysis
 
-### 1. **Competidores.**
+### 2.1. **Competidores.**
 
-####     1.1. Análisis competitivo.
+####     2.1.1. Análisis competitivo.
 
 ##### Olibati: Página para comprar o Alquilar ropa de distintos tipos
 [Olibati](https://olibati.com/pages/como-alquilar)
@@ -404,7 +404,7 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 | **Amenazas** | Negocios más conocidos y con más prestigio | Negocios con precios más bajos | Negocios que tengan opciones de renta más baratas | Otros negocios con precios más accesible |
 
 
-####     1.2. Estrategias y tácticas frente a competidores.
+####     2.1.2. Estrategias y tácticas frente a competidores.
 
 
 ##### Mostrar vendedores nuevos: La página principal también contará con la opción de visualizar la ropa recién puesta en renta, de modo que los nuevos vendedores tengan oportunidad de ser notados
@@ -414,9 +414,9 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 ##### Remarcar tipos de vestimenta: Se mostrarán filtros para elegir las distintas clases de ropa que poseemos, dándole a entender al usuario la amplia variedad de opciones que tiene
 
 
-### 2. **Entrevistas.**
+### 2.2. **Entrevistas.**
 
-####     2.1. Diseño de entrevistas.
+####     2.2.1. Diseño de entrevistas.
 
 #### **Segmento Objetivo 1: Consumidores conscientes de la moda**
  
@@ -449,7 +449,7 @@ Este análisis se llevará a cabo para tener una idea de qué clase de tácticas
 
 
 
-####     2.2. Registro de entrevistas.
+####     2.2.2. Registro de entrevistas.
 
 
 ##### *Entrevista 1:* 
@@ -500,7 +500,7 @@ Ate Vitarte
 La entrevista fue con Sandy Ingaruca, de 25 años, quien busca su ropa para eventos sociales en tiendas locales y en línea, priorizando marcas que se ajusten a su estilo. A veces le resulta difícil encontrar prendas específicas para eventos. Se motivó a considerar el alquiler de sus prendas para ganar dinero extra y reducir el desperdicio de moda. Estaría dispuesta a alquilar prendas como vestidos de fiesta, trajes formales, y accesorios. Cree que al alquilar sus prendas puede contribuir a reducir el desperdicio de moda. Considera importante la sostenibilidad y la ecoconciencia al decidir alquilar sus prendas.
 
 
-####     2.3. Análisis de entrevistas.
+####     2.2.3. Análisis de entrevistas.
 
 
 #### **Entrevista 1:**
@@ -514,36 +514,36 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 
 
-### 3. **Needfinding.**
+### 2.3. **Needfinding.**
 
-####     3.1. User Personas.
+####     2.3.1. User Personas.
 
 ![image](Images/UserPersona.png)
 
-####     3.2. User Task Matrix.
+####     2.3.2. User Task Matrix.
 
 ![image](Images/userTaskMatrix.png)
 
-####     3.3. User Journey Mapping.
+####     2.3.3. User Journey Mapping.
 
 ![image](Images/JourneyMap.png)
 
-####     3.4. Empathy Mapping.
+####     2.3.4. Empathy Mapping.
 
 ![image](Images/EmpathyMap.png)
 
-####     3.5. As-is Scenario Mapping.
+####     2.3.5. As-is Scenario Mapping.
 
 ![image](Images/AsIsSM.png)
 
-####     3.6. Ubiquitous Language.
+####     2.4. Ubiquitous Language.
 
 ![image](Images/UbiquitousL.png)
 
 
 ## Capítulo III: Requirements Specification
 
-### 1. **To-Be Scenario Mapping.**
+### 3.1 **To-Be Scenario Mapping.**
 
 #### Segmento 1
 
@@ -565,7 +565,7 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 
 
-### 2. **User Stories.**
+### 3.2 **User Stories.**
 
 
 | User Story ID | US01  | Epic ID | EP01  |
@@ -1162,9 +1162,11 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 
 
-### 3. **Impact Mapping.**
-....
-### 4. **Product Backlog.**
+### 3.3. **Impact Mapping.**
+
+![ImpactMapping](Images/ImpactMap.png)
+
+### 3.4 **Product Backlog.**
 
 
 
