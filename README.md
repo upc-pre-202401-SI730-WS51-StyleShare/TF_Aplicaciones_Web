@@ -1303,7 +1303,8 @@ El usuario se moverá entre distintas pantallas usando los botones presentas en 
 
 ### 4.7. **Software Object-Oriented Design.**
 ####    4.7.1. Class Diagrams.
-....
+![CalssDiagram](Images/ClassDiagram.png)
+
 ####    4.7.2. Class Dictionary.
 | Atributo         | Type       |Description|
 |------------------|------------|-----------|
@@ -1318,7 +1319,7 @@ El usuario se moverá entre distintas pantallas usando los botones presentas en 
 |    | |  |
 ### 4.8. **Database Design.**
 ####    4.8.1. Database Diagram.
-....
+![Database](Images/DatabaseDiagrams.png)
 
 
 
