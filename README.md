@@ -1374,10 +1374,65 @@ Github: GitHub es una plataforma en línea que permite a los equipos colaborar e
 |Ramos Najar Tony Alexander| u20211A153@upc.edu.pe |
 |More Rondon Christopher Sebastian| u202212199@upc.edu.pe |
 |Cortez Quezada, Joaquin Antonio	| u202212648@upc.edu.pe |
+
+
+![GitFlow](Images/Gitflow.jpg)
+
+El modelo de Gitflow define una serie de ramas estándar y reglas para su uso, lo que facilita la colaboración y la gestión del código en un equipo de desarrollo.
+
+La rama main es la rama principal de nuestro proyecto, que contiene la versión estables, operativas y listas para implementar. Usaremos etiquetas para marcar cada versión estable y desplegable, esto nos permitirá realizar un seguimiento claro de las versiones y facilitar la gestión de futuras actualizaciones.
+
+La rama develop es la rama de desarrollo contiene las versiones en desarrollo de nuestro proyecto que aún no han sido sometidas a pruebas, aunque están completadas y contienen todas las características que se esperan hasta ese momento.
+
+La rama feature es la rama donde cada nueva característica se desarrolla en una rama de características separada, lo que permite a los miembros del equipo trabajar de forma independiente en diferentes aspectos de la aplicación
+
 ####    5.1.3. Source Code Style Guide & Conventions.
-....
+
+En esta sección, se establece y documenta la guía de estilo y las convenciones de codificación que deben seguirse en el proyecto.Estas convenciones se aplicarán a los diversos lenguajes utilizados como HTML,CSS y Gherkin.
+
+#### HTML: 
+
+Se debe cerrar cada elemento HTML adecuadamente.
+
+Utilizar minúsculas para los nombres de elementos y atributos.
+
+Emplear comillas alrededor de los valores de los atributos, especialmente cuando incluyan espacios.
+
+#### CSS: 
+
+Todo el código debe estar en minúscula. 
+
+Utilizar nombres de clase significativos o genéricos, nombres que reflejen el propósito de su elemento.
+
+Evitar especificar la unidad de medida para valores de 0.
+
+#### JavaScript:
+
+Utilizar nombres de variables y funciones descriptivos
+
+Mantener comentarios para explicar el propósito y la funcionalidad del código
+
+Utilizar punto y coma al final de cada declaración
+
+#### Gherkin:
+
+Utilizar los bloques Given, When, y Then para estructurar los escenarios
+
+Utilizar palabras clave significativas y descriptivas.
+
+Usar saltos de línea para mejorar la legibilidad y agrupar información.
+
 ####    5.1.4. Software Deployment Configuration.
-....
+En este trabajo utilizaremos Git y Github
+
+Git: Git es un sistema de control de versiones distribuido muy utilizado en el desarrollo de software. Ha evolucionado hasta convertirse en una herramienta esencial para la colaboración y el seguimiento de cambios en proyectos, tanto de código abierto como privados. Los desarrolladores pueden crear ramas, realizar modificaciones en estas y fusionarlas de manera eficiente, permitiendo así el trabajo simultáneo.
+
+Su utilidad reside en el control detallado de las herramientas del software, permitiendo almacenar diferentes versiones a lo largo de las distintas etapas del proyecto. Esto posibilita a los desarrolladores hacer un seguimiento de lo realizado y resolver problemas o realizar cambios según sea necesario durante el desarrollo del proyecto.
+
+GitHub: GitHub es una plataforma de alojamiento y colaboración de código fuente construida sobre Git. En este entorno, los desarrolladores pueden crear repositorios para almacenar y administrar su código fuente, los cuales pueden ser públicos o privados. 
+
+GitHub permite que múltiples desarrolladores trabajen simultáneamente en el mismo repositorio, realizando cambios en diferentes ramas y fusionándose de manera sencilla. Esto simplifica la gestión conjunta y la integración de contribuciones diversas.
+
 ### 5.2. Landing Page, Services & Applications Implementation.
 ####    5.2.1. Sprint 1
 #####         **5.2.1.1. Sprint Planning 1.**
