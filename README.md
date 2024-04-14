@@ -587,19 +587,251 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 <br><br>
 
-| User Story ID | US01  | Epic ID | EP01  |
+| User Story ID | US02  | Epic ID | EP01  |
 |---------------|-------|---------|-------|
-| Título        | Registro de usuario |   |
-| Descripción   | Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades. |   |
+| Título        | Verificación de correo electrónico |   |
+| Descripción   | Como usuario, quiero recibir un correo electrónico de verificación después de registrarme. |   |
+
 **Criterios de aceptación:**
-| Escenario 1: Registro de cuenta con Gmail  |
+
+| Escenario 1: Verificación de correo electrónico  |
 |-------------------------------------------|
-| Dado que el usuario se quiere registrar en la web |
-| Cuando selecciona la opción “Registrarse” en la pantalla de registros |
-| Y ingresa su Gmail personal |
-| Y selecciona la opción “Continuar registro” |
-| Cuando aparece el nuevo apartado de datos ingresa su información personal, como nombre, zona de residencia, número telefónico y contraseña |
-| Entonces la aplicación web registra el usuario y lo redirige a la pantalla principal. |
+| Dado que el nuevo usuario se a registrado |
+| Cuando ingreso a su correo electrónico |
+| Y revisa la bandeja de entrada |
+| Entonces encuentra un correo electrónico de verificación con un enlace para confirmar su dirección de correo electrónico. |
+
+<br><br>                                                                                                                                                                                                                                                                      
+| User Story ID | US03  | Epic ID | EP01  |
+|---------------|-------|---------|-------|
+| Título        | Inicio de sesión |   |
+| Descripción   | Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee. |   |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Inicio de sesión con correo  |
+|-------------------------------------------|
+| Dado que el usuario quiere iniciar sesión |
+| Cuando ingresa su correo electrónico en la pantalla de inicio de sesión |
+| y ingresa la contraseña |
+| Y selecciona la opción “Continuar” |
+|Entonces la aplicación web lo redirige a la pantalla principal. |
+
+<br><br> 
+
+| User Story ID | US04  | Epic ID | EP01  |
+|---------------|-------|---------|-------|
+| Título        | Configuración de perfil inicial |   |
+| Descripción   | Como usuario, quiero completar mi perfil inicial para proporcionar información relevante. |   |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Configuración de perfil inicial  |
+|-------------------------------------------|
+| Dado que el usuario se encuentra en la pantalla principal |
+| Cuando accede a la pantalla de perfil |
+| Y selecciona Editar |
+| Entonces la aplicación web guía al usuario para completar campos como nombre, apellidos, foto de perfil, y otra información relevante. |
+
+<br><br> 
+
+| User Story ID | US05  | Epic ID | EP02  |
+|---------------|-------|---------|-------|
+| Título        | Búsqueda de prendas en la aplicación web |   |
+| Descripción   | Como usuario quiero buscar prendas por la app para seleccionar aquellas que se acomoden a mis preferencias. |   |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Ingreso al apartado de prendas de la pantalla principal  |
+|-------------------------------------------|
+| Dado que el usuario se encuentro en la pantalla principal de la aplicación web |
+| Cuando se dirige a una categoría que le muestra la pantalla principal |
+| Y da clic al nombre de la categoría |
+| Entonces la aplicación muestra una amplia lista con distintos tipos de prendas. |
+|-------------------------------------------|
+| Escenario 2: Muestra lista de prendas en base a criterios de búsqueda  |
+| Dado que el usuario se encuentra en la pantalla principal de la aplicación web |
+| Cuando ingresa palabras clave o filtros de búsqueda en el campo de búsqueda |
+| Y selecciona inicia la búsqueda |
+| Entonces la aplicación web muestra una lista de prendas que coinciden con los criterios de búsqueda del usuario con una pequeña descripción de estos. |
+
+<br><br> 
+
+| User Story ID | US06  | Epic ID | EP02  |
+|---------------|-------|---------|-------|
+| Título        | Agregar filtros de búsqueda avanzada |   |
+| Descripción   | Como usuario quiero tener a mi disposición una serie de filtros para encontrar una prenda de mi interés más rápido. |   |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Acceso a filtro avanzado  |
+|-------------------------------------------|
+| Dado que el usuario se encuentra en la página principal de la aplicación|
+| Cuando selecciona la opción de filtros avanzados en la barra de búsqueda |
+| Entonces la aplicación muestra opciones adicionales de filtro, como categoría de prenda, talla, material y precio |
+| Cuando completa la información del filtro avanzado con las características que busca |
+| Y inicia la búsqueda |
+| Entonces la aplicación web muestra una lista de prendas que coinciden con los criterios de búsqueda del usuario. |
+|-------------------------------------------|
+| Escenario 2: Ingreso de datos erróneas en el filtro avanzado  |
+| Dado que el usuario selecciona el filtro avanzado|
+| Cuando ingresa datos erróneos en los filtros |
+| Y realiza la búsqueda |
+| Entonces la aplicación web muestra un mensaje de alerta donde muestra los datos erróneos que se agregaron en el filtro |
+
+<br><br> 
+
+| User Story ID | US07  | Epic ID | EP02  |
+|---------------|-------|---------|-------|
+| Título        | Exploración de prendas recomendadas |   |
+| Descripción   | Como usuario quiero que la aplicación me recomiende nuevas prendas relacionadas a mis intereses y gustos. |   |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Ingresar al apartado de Recomendaciones  |
+|-------------------------------------------|
+| Dado que el usuario se encuentra en la página principal de la aplicación|
+| Y selección el menú desplegable |
+| Cuando visualiza al apartado de Productos para ti |
+| Y da clic |
+| Entonces la aplicación web muestra el apartada de Productos para ti |
+|-------------------------------------------|
+| Escenario 2: Realizar búsqueda de Prendas recomendadas  |
+| Dado que el usuario se encuentra en el apartado de Productos para ti |
+| Cuando navega por la sección |
+| Entonces la aplicación web muestra una lista de prendas sugeridas basados en los intereses y preferencias del usuario |
+
+<br><br> 
+
+| User Story ID | US08  | Epic ID | EP03  |
+|---------------|-------|---------|-------|
+| Título        | Ver detalles de la prenda |   |
+| Descripción   | Como usuario, quiero poder ver información detallada sobre la prenda que deseo alquilar para obtener todos los detalles relevantes. |   |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Ingresar a ver los datos de la prenda  |
+|-------------------------------------------|
+| Dado que el usuario se encuentra en la página principal de la aplicación |
+| Cuando abre el menú desplegable |
+| Y selecciona una categoría de su interés |
+| Y selecciona una prenda |
+| Entonces la aplicación muestra una pantalla con información detallada sobre la prenda, como nombre, precio, imágenes, comentarios y una descripción en la cual se menciona el material, proceso de fabricación, talla, estilo. |
+
+<br><br>
+
+| User Story ID | US09  | Epic ID | EP03  |
+|---------------|-------|---------|-------|
+| Título        | Guardar prendas en favoritos |   |
+| Descripción   | Como usuario, quiero tener la opción de guardar una prenda en mi lista de favoritos para poder acceder rápidamente a ella en cualquier momento. |   |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Añadir prenda a favoritos  |
+|-------------------------------------------|
+| Dado que el usuario encontró una prenda de su interés |
+| Cuando selecciona la opción de añadir en lista de favoritos |
+| Entonces la aplicación guarda la prenda en la sección de favoritos para acceder fácilmente más adelante.|
+|-------------------------------------------|
+| Escenario 2: Visualizar prendas marcadas como favoritos  |
+| Dado que el usuario he agregado una prenda como favorito |
+| Cuando se dirijo al apartado de mi perfil en la aplicación web |
+| Y da clic en Lista de Favoritos |
+| Entonces la aplicación muestra todas las prendas las cuales se han marcado como favoritos. |
+|-------------------------------------------|
+| Escenario 3: Eliminar prenda favoritos |
+| Dado que el usuario quiere eliminar una prenda de favoritos |
+| Cuando se dirige al apartado de perfil en la aplicación web |
+| Y da clic en Lista de Favoritos |
+| Y selecciona la opción eliminar prenda |
+| Entonces la aplicación eliminará de Lista de Favoritos la prenda seleccionada. |
+
+<br><br>
+
+| User Story ID | US10  | Epic ID | EP04  |
+|---------------|-------|---------|-------|
+| Título        | Ver sección de alquiler en la aplicación |   |
+| Descripción   | Como usuario, quiero poder acceder al alquiler de cualquier prenda en la aplicación. |   |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Ingreso al apartado de búsqueda de prendas  |
+|-------------------------------------------|
+| Dado que el usuario se encuentra en la página principal de la aplicación |
+| Cuando abre el menú desplegable |
+| Y selecciona una categoría de su interés |
+| Entonces la aplicación web muestra una amplia lista de prendas. |
+|-------------------------------------------|
+| Escenario 2: Ingresar a ver los datos de la prenda  |
+| Dado que el usuario ve las prendas disponibles en una categoría |
+| Cuando selecciona una prenda específica de su interés |
+| Entonces la aplicación muestra una pantalla con información detallada sobre la prenda, como nombre, precio, imágenes, comentarios y una descripción en la cual se menciona el material, proceso de fabricación, talla, estilo. |
+|-------------------------------------------|
+| Escenario 3: Ingresar a la sección alquiler de prenda |
+| Dado que el usuario observa los detalles de una prenda y quiere alquilarla |
+| Cuando selecciono la opción de alquilar ahora |
+| Entonces la aplicación muestra un campo o selector donde puedo seleccionar la cantidad de tiempo que quiere alquilar la prenda |
+
+<br><br>
+
+| User Story ID | US11  | Epic ID | EP04  |
+|---------------|-------|---------|-------|
+| Título        | Realizar Alquiler de prendas |   |
+| Descripción   | Como usuario, quiero poder realizar el alquiler de una prenda por un tiempo determinado para tenerla en mi poder. |   |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Selección de una prenda por un número de días no válidos  |
+|-------------------------------------------|
+| Dado que el usuario selecciona la cantidad de días que quiere alquilar una prenda |
+| Cuando da clic en el botón seguir con el alquiler |
+| Entonces la aplicación muestra un mensaje emergente donde indica que la prenda no está disponible para ser alquilada la cantidad de días seleccionadas |
+|-------------------------------------------|
+| Escenario 2: Mostrar resumen antes de finalizar alquiler  |
+| Dado que el usuario selecciona la cantidad días que desea alquilar una prenda |
+| y esta listo para realizar la compra |
+| Cuando selecciona la opción de confirmar alquiler. |
+| Entonces la aplicación muestra un resumen del alquiler, incluyendo la prenda, la cantidad de días y el precio total antes de confirmar el alquiler. |
+|-------------------------------------------|
+| Escenario 3: Finalizar proceso de alquiler |
+| Dado que el usuario verifico la compra visualizando el resumen de compra |
+| Y esta conforme con los datos |
+| Cuando selecciona la opción de confirmar alquiler |
+| Entonces la aplicación procesa la solicitud de alquiler, a la par que registra la transacción. |
+
+<br><br>
+
+| User Story ID | US12  | Epic ID | EP05  |
+|---------------|-------|---------|-------|
+| Título        | Crear una nueva publicación |   |
+| Descripción   | Como usuario quiero tener la posibilidad de publicar las prendas en buen estado que ya no uso en la aplicación para generar algún tipo de ingreso. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Publicación Exitosa  |
+|-------------------------------------------|
+| Dado que el usuario publicar una prenda |
+| Y se encuentra en la pantalla principal |
+| Cuando selecciona "Publicar Prenda". |
+| Entonces, la aplicación muestra un formulario de publicación que incluye campos para agregar imágenes de la prenda, título, descripción, categoría, talla, estado de la prenda y precio de alquiler. |
+| Cuando completa todos los campos requeridos |
+| y da clic en el botón "Publicar". |
+| Entonces, la aplicación muestra un mensaje de confirmación de que la prenda se ha publicado con éxito. |
+|-------------------------------------------|
+| Escenario 2: Publicación Incompleta  |
+| Dado que el usuario quiere publicar una prenda |
+| Y se encuentra en la pantalla principal |
+| Cuando selecciona "Publicar Prenda". |
+| Entonces la aplicación muestra un formulario de publicación. |
+| Cuando el usuario deja campos obligatorios sin completar |
+| y da clic en el botón "Publicar". |
+| Entonces, la aplicación muestra un mensaje de alerta donde muestra los campos que faltan completar. |
+|-------------------------------------------|
+| Escenario 3: Cancelación de Publicación |
+| Dado que el usuario está en el proceso de crear una nueva publicación |
+| Cuando completa algunos de los campos del formulario de publicación |
+| Y decide cancelar la publicación en lugar de finalizar. |
+| Entonces, la aplicación pregunta si estoy seguro de que quiere cancelar. |
 
 <br><br>
 
