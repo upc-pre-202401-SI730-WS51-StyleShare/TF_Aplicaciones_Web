@@ -631,49 +631,55 @@ Espacio: Se establecen márgenes y espacios uniformes en toda la aplicación par
  
 Tono de comunicación: Esta es amigable y accesible pero profesional y confía al mismo tiempo, por otra parte, se mantiene el tono respetuoso hacia los usuarios a la par que refleja creatividad.
 
-####     1.2. Web Style Guidelines.
+####    4.1.2. Web Style Guidelines.
+Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferentes tamaños de pantalla, garantizando una experiencia agradable al usuario Las imágenes juegan un papel fundamental en nuestra página web, por eso se usarán imágenes de alta resolución para mostrar las prendas y productos de manera más llamativa y atractiva, asimismo se emplearán iconos claros con los cuales el usuario podrá desplazarse por toda la aplicación En la navegación del usuario la aplicación se mantendrá simple e intuitiva con los iconos de navegación, búsquedas visibles y accesibles, además, tanto el proceso de alquiler y publicación de prendas de simplificará al máximo, con pasos claros y una interfaz amigable.
+
+### 4.2. **Information Architecture.**
+####    4.2.1. Organization Systems.
+ ### Cada prenda de ropa a alquilar tendrá una pequeña ventana donde se muestra información básica como su nombre, precio y calificación, junto a una imagen.
+ ### Al buscar se mostrarán en orden alfabético, o de más nueva según el usuario elija.
+ ### En la pantalla principal las ventanas vendrán acomodadas en filas para exhibir recomendaciones, a los vendedores más nuevos, y una fila para cada tipo de ropa, en orden alfabético.
+ ### En la parte superior se mostrará información del usuario, junto con las membresías que posea.
+ ### En la ventana de añadir prenda, deberá ingresar imágenes, un precio y una descripción para su producto.
+
+####    4.2.2. Labeling Systems.
 ....
-### 2. **Information Architecture.**
-####     2.1. Organization Systems.
+####    4.2.3. SEO Tags and Meta Tags.
 ....
-####     2.2. Labeling Systems.
+####    4.2.4. Searching Systems.
 ....
-####     2.3. SEO Tags and Meta Tags.
+####    4.2.5. Navigation Systems.
 ....
-####     2.4. Searching Systems.
+### 4.3. **Landing Page UI Design.**
+####    4.3.1. Landing Page Wireframe.
 ....
-####     2.5. Navigation Systems.
+####    4.3.2. Landing Page Mock-up.
 ....
-### 3. **Landing Page UI Design.**
-####     3.1. Landing Page Wireframe.
+### 4.4. **Web Applications UX/UI Design.**
+####    4.4.1. Web Applications Wireframes.
 ....
-####     3.2. Landing Page Mock-up.
+####    4.4.2.. Web Applications Wireflow Diagrams.
 ....
-### 4. **Web Applications UX/UI Design.**
-####     4.1. Web Applications Wireframes.
+####    4.4.2. Web Applications Mock-ups.
 ....
-####     4.2. Web Applications Wireflow Diagrams.
+####    4.4.3. Web Applications User Flow Diagrams.
 ....
-####     4.3. Web Applications Mock-ups.
+### 4.5 **Web Applications Prototyping.**
 ....
-####     4.4. Web Applications User Flow Diagrams.
+### 4.6. **Domain-Driven Software Architecture.**
+####    4.6.1. Software Architecture Context Diagram.
 ....
-### 5. **Web Applications Prototyping.**
+####    4.6.2. Software Architecture Container Diagrams.
 ....
-### 6. **Domain-Driven Software Architecture.**
-####     6.1. Software Architecture Context Diagram.
+####    4.6.3. Software Architecture Components Diagrams.
 ....
-####     6.2. Software Architecture Container Diagrams.
+### 4.7. **Software Object-Oriented Design.**
+####    4.7.1. Class Diagrams.
 ....
-####     6.3. Software Architecture Components Diagrams.
+####    4.7.2. Class Dictionary.
 ....
-### 7. **Software Object-Oriented Design.**
-####     7.1. Class Diagrams.
-....
-####     7.2. Class Dictionary.
-....
-### 8. **Database Design.**
-####     8.1. Database Diagram.
+### 4.8. **Database Design.**
+####    4.8.1. Database Diagram.
 ....
 
 
