@@ -1171,8 +1171,8 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 
 ## Capítulo IV: Product Design
-### 1. **Style Guidelines.**
-####     1.1. General Style Guidelines.
+### 4.1. **Style Guidelines.**
+####     4.1.1. General Style Guidelines.
 Branding
 Utilizamos un enfoque amigable, elegante y sencillo para nuestro Branding, con el cual buscamos transmitir confianza, seguridad y seriedad en el alquiler de prendas. 
 
@@ -1292,23 +1292,23 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 
 
 ## Capítulo V: Product Implementation, Validation & Deployment
-### 1. Software Configuration Management.
-####     1.1. Software Development Environment Configuration.
+### 5.1. Software Configuration Management.
+####    5.1.1. Software Development Environment Configuration.
 ....
-####     1.2. Source Code Management.
+####    5.1.2. Source Code Management.
 |Integrantes| Cuenta de GitHub      |
 |----------|-----------------------|
 |Agama Espinoza, Eric Fabrizio	| U202213358@upc.edu.pe |
 |Ramos Najar Tony Alexander| @upc.edu.pe |
 |More Rondon Christopher Sebastian| @upc.edu.pe |
 |Cortez Quezada, Joaquin Antonio	| @upc.edu.pe |
-####     1.3. Source Code Style Guide & Conventions.
+####    5.1.3. Source Code Style Guide & Conventions.
 ....
-####     1.4. Software Deployment Configuration.
+####    5.1.4. Software Deployment Configuration.
 ....
-### 2. Landing Page, Services & Applications Implementation.
-####     2.1. Sprint 1
-#####         **2.1.1. Sprint Planning 1.**
+### 5.2. Landing Page, Services & Applications Implementation.
+####    5.2.1. Sprint 1
+#####         **5.2.1.1. Sprint Planning 1.**
 | Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.|
 | -------------------------------- | ----------------------------------------------------------- |
 | Sprint Planning Background       |
@@ -1324,7 +1324,8 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 | **Sprint Goal & User Stories**   |
 | Sprint 1 Velocity                |  21 points|
 | Sum of Story Points              |  21 points|
-#####         **2.1.2. Sprint Backlog 1.**
+
+#####         **5.2.1.2. Sprint Backlog 1.**
 | id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
 | ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
 | GW01 | Apartado del Header  | G01 | Header responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3| Joaquin Antonio  | Done|
@@ -1335,11 +1336,11 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 | GW06 | Implementacin de Javascript | G06 | Implementacin de Javascript (Desarrollado en HTML y JS)| Desarrollo e implementación de animaciones. Debe ser responsive. | 3| Eric Agama | Done|
 | GW07 | Incio de sesion     | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los planes de la página. Debe ser responsive.  | 3| Tony Alexander | Done|
 | GW08 | Apartado encabezado    | G08 | Desarrollo responsive de la página| Desarrollo e implementación de un estilo responsive en toda la página.| 2| Eric Agama  | Done|
-#####         **2.1.3. Development Evidence for Sprint Review.**
+#####         **5.2.1.3. Development Evidence for Sprint Review.**
 ....
-#####         **2.1.4. Testing Suite Evidence for Sprint Review.**
+#####         **5.2.1.4. Testing Suite Evidence for Sprint Review.**
 ....
-#####         **2.1.5. Execution Evidence for Sprint Review.**
+#####         **5.2.1.5. Execution Evidence for Sprint Review.**
 
 En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up.
 
@@ -1367,11 +1368,11 @@ Sección Colaboración:
 
 ![Images](Images/COLABORACION2.png)
 
-#####         **2.1.6. Services Documentation Evidence for Sprint Review.**
+#####         **5.2.1.6. Services Documentation Evidence for Sprint Review.**
 ....
-#####         **2.1.7. Software Deployment Evidence for Sprint Review.**
+#####         **5.2.1.7. Software Deployment Evidence for Sprint Review.**
 ....
-#####         **2.1.8. Team Collaboration Insights during Sprint.**
+#####         **5.2.1.8. Team Collaboration Insights during Sprint.**
 ....
 
 
