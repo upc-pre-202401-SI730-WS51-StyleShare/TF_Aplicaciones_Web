@@ -43,11 +43,9 @@ width=50%"/>
 
 | Criterio específico | Acciones Realizadas | Conclusiones |
 |---------------------|----------------------|--------------|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| <br><b>TB1</b><br>Joaquin Antonio Cortez Quezada
-TB1: Para esta entrega se investigó sobre los principios de diseño para la página web para el diseño de los mock ups, considerando las users stories y las funcionalidades core del startup
+|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| <br><b>TB1</b><br>Joaquin Antonio Cortez Quezada: Para esta entrega se investigó sobre los principios de diseño para la página web para el diseño de los mock ups, considerando las users stories y las funcionalidades core del startup
 <br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br> ...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|<br><b>TB1</b><br>Joaquin Antonio Cortez Quezada
-TB1: Considerando las funcionalidades principales de nuestro proyecto, diseñe los wireframes, mockups y landing page. En cada uno se considero los principios de diseño. Asimismo, siguiendo el modelo ágil, redacte el ux canva y las user stories.  
+|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|<br><b>TB1</b><br>Joaquin Antonio Cortez Quezada:Considerando las funcionalidades principales de nuestro proyecto, diseñe los wireframes, mockups y landing page. En cada uno se considero los principios de diseño. Asimismo, siguiendo el modelo ágil, redacte el ux canva y las user stories.  
 <br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br> ...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
 
 ## Contenido
