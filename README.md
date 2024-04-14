@@ -741,7 +741,6 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 |----------|-----------------------|
 |Agama Espinoza, Eric Fabrizio	| U202213358@upc.edu.pe |
 |Ramos Najar Tony Alexander| @upc.edu.pe |
-|Cortez Flores, Ely Rivaldo| @upc.edu.pe |
 |More Rondon Christopher Sebastian| @upc.edu.pe |
 |Cortez Quezada, Joaquin Antonio	| @upc.edu.pe |
 ####     1.3. Source Code Style Guide & Conventions.
