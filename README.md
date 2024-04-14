@@ -645,7 +645,37 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 ####    4.2.2. Labeling Systems.
 ....
 ####    4.2.3. SEO Tags and Meta Tags.
-....
+**Titulo:**
+
+```
+<Title>Register your processes with StyleShare</Title>
+```
+
+**Codificación de carácteres:**
+
+```
+<meta charset="utf-8">
+```
+
+**Descripción:**
+
+```
+<meta name="description" content="We offer you the opportunity to rent high-quality clothing, accessories and footwear for specific periods, so you feel amazing every time without compromising your style or budget."/>
+```
+
+**Palabras Claves:**
+
+```
+<meta name="keywords" content="fashion, innovative, rent, economic, flexibility"/>>
+```
+
+**Autor y Derechos de Autor:**
+
+```
+<meta name="author" content="StyleShare"/>
+
+<meta name="copyright" content="Copyright StyleShare team" />
+```
 ####    4.2.4. Searching Systems.
 ....
 ####    4.2.5. Navigation Systems.
