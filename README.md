@@ -687,11 +687,19 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 ....
 ### 4.4. **Web Applications UX/UI Design.**
 ####    4.4.1. Web Applications Wireframes.
-....
+![WebAppWireframe](Images/WireframeWebApp.png)
 ####    4.4.2.. Web Applications Wireflow Diagrams.
-....
+![UserGoal](Images/UserGoal1.png)
+![UserGoal](Images/UserGoal2.png)
+![UserGoal](Images/UserGoal3.png)
+![UserGoal](Images/UserGoal4.png)
+![UserGoal](Images/UserGoal5.png)
+![UserGoal](Images/UserGoal6.png)
+
+[**Miro Users Goals Web Application**](https://miro.com/app/board/uXjVKWB7Y98=/)
+
 ####    4.4.2. Web Applications Mock-ups.
-....
+![WebAppMockUp](Images/WebAppMockUp.png)
 ####    4.4.3. Web Applications User Flow Diagrams.
 ....
 ### 4.5 **Web Applications Prototyping.**
@@ -707,7 +715,17 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 ####    4.7.1. Class Diagrams.
 ....
 ####    4.7.2. Class Dictionary.
-....
+| Atributo         | Type       |Description|
+|------------------|------------|-----------|
+|            |      |  |
+|          |      | |
+|               |         | |
+|      |      |  |
+|  |   |  |
+|         |   |  |
+|         |  |  |
+|     |        | |
+|    | |  |
 ### 4.8. **Database Design.**
 ####    4.8.1. Database Diagram.
 ....
@@ -719,7 +737,13 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 ####     1.1. Software Development Environment Configuration.
 ....
 ####     1.2. Source Code Management.
-....
+|Integrantes| Cuenta de GitHub      |
+|----------|-----------------------|
+|Agama Espinoza, Eric Fabrizio	| U202213358@upc.edu.pe |
+|Ramos Najar Tony Alexander| @upc.edu.pe |
+|Cortez Flores, Ely Rivaldo| @upc.edu.pe |
+|More Rondon Christopher Sebastian| @upc.edu.pe |
+|Cortez Quezada, Joaquin Antonio	| @upc.edu.pe |
 ####     1.3. Source Code Style Guide & Conventions.
 ....
 ####     1.4. Software Deployment Configuration.
@@ -727,9 +751,32 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 ### 2. Landing Page, Services & Applications Implementation.
 ####     2.1. Sprint 1
 #####         **2.1.1. Sprint Planning 1.**
-....
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 10/04/2024|
+| Time                             | 22:00 horas (GMT-5)|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | Cortez Quezada, Joaquin Antonio	|
+| PAttendees (to planning meeting) | <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon Christopher Sebastian </li> <li>Agama Espinoza, Eric Fabrizio   </li> <li>Ramos Najar Tony Alexander </li>|
+|Sprint n -1 Review|
+|Resumen|Se creará la organización de StyleShare en Github y el repositorio de la organización. |
+|Sprint n -1 Retrospective|
+|Resumen|Se implemento para el landing se ha realizado mediante html css y js.|
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Velocity                |  21 points|
+| Sum of Story Points              |  21 points|
 #####         **2.1.2. Sprint Backlog 1.**
-....
+| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
+| GW01 | Apartado del Header  | G01 | Header responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al encabezado (Header). Debe ser responsive.      | 3| Joaquin Antonio  | Done|
+| GW02 | Apartado del Footer    | G02 | Footer responsivos (Desarrollado en HTML y CSS).| Desarrollo e implementación de los estilos que corresponden al pie de página (Footer). Debe ser responsive.   | 2| Christopher Sebastian | Done|
+| GW03 | Apartado Nosotros          | G03 | Nosotros (Desarrollado en HTML y CSS)| Desarrollo e implementación de descripcion sobre nosotros. Debe ser responsive.           | 3|  Christopher Sebastian  | Done|
+| GW04 | Apartado Colaboraciones   | G04 | (Desarrollado en HTML y CSS)| Desarrollo e implementación de los estilos que corresponden a Producto. Debe ser responsive.    | 2| Tony Alexander   | Done|
+| GW05 | Apartado formulario          | G05 | Sección formulario (Desarrollado en HTML y CSS)| Desarrollo e implementación de los formularios. Debe ser responsive.    | 3|  Joaquin Antonio  | Done|
+| GW06 | Implementacin de Javascript | G06 | Implementacin de Javascript (Desarrollado en HTML y JS)| Desarrollo e implementación de animaciones. Debe ser responsive. | 3| Eric Agama | Done|
+| GW07 | Incio de sesion     | G07 | Funcionalidad de los Botones(Desarrollado en HTML y CSS) | Desarrollo e implementación de los estilos que corresponden a los planes de la página. Debe ser responsive.  | 3| Tony Alexander | Done|
+| GW08 | Apartado encabezado    | G08 | Desarrollo responsive de la página| Desarrollo e implementación de un estilo responsive en toda la página.| 2| Eric Agama  | Done|
 #####         **2.1.3. Development Evidence for Sprint Review.**
 ....
 #####         **2.1.4. Testing Suite Evidence for Sprint Review.**
