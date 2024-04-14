@@ -1253,13 +1253,23 @@ El usuario se moverá entre distintas pantallas usando los botones presentas en 
 
 ### 4.3. **Landing Page UI Design.**
 ####    4.3.1. Landing Page Wireframe.
-....
+![LandingPageWireframe](Images/WireframeLanding.png)
+
 ####    4.3.2. Landing Page Mock-up.
-....
+![LandingPageMockUp](Images/LandingPageMock1.png)
+![LandingPageMockUp](Images/LandingPageMock2.png)
+![LandingPageMockUp](Images/LandingPageMock3.png)
+
 ### 4.4. **Web Applications UX/UI Design.**
 ####    4.4.1. Web Applications Wireframes.
 ![WebAppWireframe](Images/WireframeWebApp.png)
 ####    4.4.2.. Web Applications Wireflow Diagrams.
+
+
+####    4.4.2. Web Applications Mock-ups.
+![WebAppMockUp](Images/WebAppMockUp.png)
+
+####    4.4.3. Web Applications User Flow Diagrams.
 ![UserGoal](Images/UserGoal1.png)
 ![UserGoal](Images/UserGoal2.png)
 ![UserGoal](Images/UserGoal3.png)
@@ -1268,11 +1278,6 @@ El usuario se moverá entre distintas pantallas usando los botones presentas en 
 ![UserGoal](Images/UserGoal6.png)
 
 [**Miro Users Goals Web Application**](https://miro.com/app/board/uXjVKWB7Y98=/)
-
-####    4.4.2. Web Applications Mock-ups.
-![WebAppMockUp](Images/WebAppMockUp.png)
-####    4.4.3. Web Applications User Flow Diagrams.
-....
 ### 4.5 **Web Applications Prototyping.**
 ....
 ### 4.6. **Domain-Driven Software Architecture.**
