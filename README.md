@@ -1478,19 +1478,18 @@ GitHub permite que múltiples desarrolladores trabajen simultáneamente en el mi
 
 
 #####         **5.2.1.4. Testing Suite Evidence for Sprint Review.**
-....
+
+Para la entrega del Sprint 1 se intentó alcanzar el desarrollo completo, implementación y despliegue del Landing Page. Es por ello que la sección de "feature" se centro en la implementación de los archivos feature que contiene nuestro landing page.
+
+
 #####         **5.2.1.5. Execution Evidence for Sprint Review.**
 
 En el sprint 1 se alcanzó un desarrollo parcial en la implementación del despliegue del landing page. La cual muestra diferentes secciones donde el usuario puede encontrar información relevante acerca del producto y del start up.
 
 Sección home:
 
-![Images](Images/inicio1.png)
+![Images](Images/Home.png)
 <br>
-
-![Images](Images/inicio2.png)
-
-Sección Planes:
 
 Sección Nosotros:
 
