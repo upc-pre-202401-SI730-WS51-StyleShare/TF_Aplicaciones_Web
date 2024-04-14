@@ -41,12 +41,10 @@ width=50%"/>
 
 ### Studen Outcome
 
-| Criterio específico | Acciones Realizadas | Conclusiones |
-|---------------------|----------------------|--------------|
-|Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.| <br><b>TB1</b><br>Joaquin Antonio Cortez Quezada: Para esta entrega se investigó sobre los principios de diseño para la página web para el diseño de los mock ups, considerando las users stories y las funcionalidades core del startup
-<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br> ...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
-|Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería.|<br><b>TB1</b><br>Joaquin Antonio Cortez Quezada:Considerando las funcionalidades principales de nuestro proyecto, diseñe los wireframes, mockups y landing page. En cada uno se considero los principios de diseño. Asimismo, siguiendo el modelo ágil, redacte el ux canva y las user stories.  
-<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br> ...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br><br><b>TB1</b><br>...<br><br>|<b>TB1</b><br> ....|
+|Criterio Especifico|Acciones Realizadas|Conclusiones|
+|-------------------|-------------------|------------|
+|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Joaquin Cortez**<br>TB1:<br><br>**Christopher Sebastian **<br>TB1:<br><br>**Tony Alexander**<br>TB1: <br><br>**Eric Agama**<br>TB1:Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>| Texto Conlusion.|
+|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Joaquin Cortez**<br>TB1:<br><br>**Christopher Sebastian **<br>TB1:<br><br>**Tony Alexander**<br>TB1: <br><br>**Eric Agama**<br>TB1:Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>| Texto Conclusion.|
 
 ## Contenido
 
