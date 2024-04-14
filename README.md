@@ -835,6 +835,115 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 <br><br>
 
+| User Story ID | US13  | Epic ID | EP05  |
+|---------------|-------|---------|-------|
+| Título        | Visualizar todas mis publicaciones |   |
+| Descripción   | Como usuario, quiero poder visualizar mis publicaciones para ver su estado y los comentarios interesados en el producto que ofrezco. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Visualización Exitosa de Publicaciones  |
+|-------------------------------------------|
+| Dado que el usuario publica varias prendas en alquiler |
+| Cuando accede a la sección mi perfil |
+| Cuando selecciona "Publicar Prenda". |
+| Y selecciona Productos publicados. |
+| Cuando completa todos los campos requeridos |
+| y da clic en el botón "Publicar". |
+| Entonces, la aplicación muestra una lista ordenada de todas las prendas que ha publicado. |
+|-------------------------------------------|
+| Escenario 2: Acceso a Detalles de Publicación  |
+| Dado que el usuario publica varias prendas en alquiler |
+| y visualiza la lista de sus publicaciones. |
+| Cuando selecciona "Publicar Prenda". |
+| Cuando da clic en el elemento de una publicación en la lista. |
+| Cuando el usuario deja campos obligatorios sin completar |
+| y da clic en el botón "Publicar". |
+| Entonces, la aplicación lo redirige a una pantalla que muestra información detallada de esa publicación. |
+
+<br><br>
+
+| User Story ID | US14  | Epic ID | EP06  |
+|---------------|-------|---------|-------|
+| Título        | Ayuda con problemas en la aplicación |   |
+| Descripción   | Como usuario quiero poder ponerme en contacto con servicio al cliente para que me ayuden a resolver cualquier duda o problema que se me presente en la aplicación. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Acceder al servicio de soporte al cliente  |
+|-------------------------------------------|
+| Dado que el usuario se encuentra navegando por la aplicación web |
+| Y tiene una pregunta o un problema mientras usa la aplicación |
+| Cuando abre el menú desplegable |
+| Y da clic en el icono "Soporte al cliente" |
+| Cuando completa todos los campos requeridos |
+| Entonces la aplicación muestra la opción de "Realizar Consulta". |
+| Entonces, la aplicación muestra una lista ordenada de todas las prendas que ha publicado. |
+|-------------------------------------------|
+| Escenario 2: Enviar una solicitud de soporte  |
+| Dado que el usuario selecciona "Realizar Consulta". |
+| Y completa el apartado Asunto y descripción |
+| Entonces la aplicación le notificara al usuario cuando el equipo de soporte responda su duda |
+|-------------------------------------------|
+| Escenario 3: Recibir una respuesta del servicio de soporte  |
+| Dado que el usuario envía una solicitud de soporte al cliente |
+| Cuando el equipo de soporte recibe la solicitud |
+| Entonces la aplicación iniciaría un chat con un personal especializado para que pueda resolver todas mis dudas |
+
+<br><br>
+
+| User Story ID | US15  | Epic ID | EP06  |
+|---------------|-------|---------|-------|
+| Título        | Asesoramiento sobre moda sostenible |   |
+| Descripción   | Como usuario quiero poder tener asesoramiento sobre moda sostenible para saber cómo puedo ayudar al medio ambiente. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Acceder a asesoramiento sobre moda sostenible  |
+|-------------------------------------------|
+| Dado que el usuario se encuentra navegando por la aplicación web |
+| Y tiene una pregunta o un problema mientras usa la aplicación |
+| Cuando abre el menú desplegable |
+| Y da clic en el icono "Soporte al cliente" |
+| Entonces la aplicación muestra la opción de Saber más sobre moda sostenible |
+|-------------------------------------------|
+| Escenario 2: Obtener recomendaciones personalizadas  |
+| Dado que el usuario se encuentra en el apartado Saber más sobre moda sostenible |
+| Entonces la aplicación web iniciaría un chat en tiempo real con un asesor capacitado sobre el tema |
+
+<br><br>
+
+| User Story ID | US16  | Epic ID | EP08  |
+|---------------|-------|---------|-------|
+| Título        | Recopilación de información |   |
+| Descripción   | Como consumidor quiero encontrar la información precisa para utilizar la aplicación web. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Acceso al landing page  |
+|-------------------------------------------|
+| Dado que el esta investigando información |
+| Cuando ingreso al landing page de la pagina web |
+| Y se dirige a la sección de consumidor casual de la moda |
+| Entonces el landing page le mostrara los beneficios que el puede otorgar hacer uso de la pagina web|
+
+<br><br>
+
+| User Story ID | US17  | Epic ID | EP08  |
+|---------------|-------|---------|-------|
+| Título        | Beneficios al consumidor |   |
+| Descripción   | Como arrendador quiero entender los beneficios que me aportara el uso de la página web. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Acceso al landing page  |
+|-------------------------------------------|
+| Dado que el está investigando los beneficios |
+| Cuando ingreso al landing page de la pagina web |
+| Y se dirige a la sección de consumidor casual de la moda |
+| Entonces el landing page le mostrara los beneficios que él puede otorgar hacer uso de la pagina web |
+
+<br><br>
 
 
 ### 3. **Impact Mapping.**
