@@ -1202,7 +1202,16 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
  ### En la ventana de añadir prenda, deberá ingresar imágenes, un precio y una descripción para su producto.
 
 ####    4.2.2. Labeling Systems.
-....
+Ingresar sesión/registrarse: En la esquina superior izquierda se mostrará el botón para ingresar su cuenta o crearla.
+
+Usuario: En la esquina súper izquierda, si se hace clic en ella se accederá a una ventana donde se visualizará la información del usuario.
+
+Buscar: En la parte superior, al tocarlo se abrirá el buscador junto con las opciones para buscar.
+
+Mis prendas: En la esquina superior izquierda: Al tocarla se mostrarán las prendas que el usuario tiene en alquiler, junto con su información.
+
+Añadir prenda: En la esquina inferior derecha habrá un botón para poner en renta una prenda de tu propiedad.
+
 ####    4.2.3. SEO Tags and Meta Tags.
 **Titulo:**
 
@@ -1235,10 +1244,13 @@ Nuestra interfaz web será responsiva, de adaptarse de manera fluida a diferente
 
 <meta name="copyright" content="Copyright StyleShare team" />
 ```
+
 ####    4.2.4. Searching Systems.
-....
+Al buscar, se puede elegir el tipo de vestimenta deseada, además de elegir entre un rango de precios. Se contará con un auto corrector para buscar el nombre del arrendador o de la vestimenta. Los resultados se mostrarán según orden de novedad, mejor calificados o alfabéticos según la elección del usuario.
+
 ####    4.2.5. Navigation Systems.
-....
+El usuario se moverá entre distintas pantallas usando los botones presentas en la parte superior del menú principal. Desde los cuales podrá ir a una ventana con las ropas ya alquiladas, a un buscador para ver las vestimentas disponibles y arrendadores, y la información personal de usuario junto con la membresía que tiene. Además, en la esquina inferior derecha encontrará un botón que lo llevará al menú para poner en renta una prenda.
+
 ### 4.3. **Landing Page UI Design.**
 ####    4.3.1. Landing Page Wireframe.
 ....
