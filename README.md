@@ -945,6 +945,97 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 <br><br>
 
+| User Story ID | US18  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Segmentos” |   |
+| Descripción   | Como Asistente a eventos consciente de la moda, quiero entender los beneficios que me aportará el uso de la página web, para poder elegir con conocimiento las opciones que mejorarán mi experiencia en eventos. |  |
+
+**Criterios de aceptación:**
+
+| Escenario:  |
+|-------------------------------------------|
+| Dado que soy un usuario que accede a la sección "Segmentos" de la página web, |
+| Cuando navego por esta sección, |
+| Entonces debería ver que el diseño visual (incluyendo colores, tipografías y estilos de imágenes) es coherente con el resto de la página web. |
+| Y este diseño debe ser visualmente atractivo y alinearse con las tendencias de moda actuales para apelar a asistentes a eventos de moda. |
+| Y todos los elementos visuales deben cargar correctamente sin errores visuales o técnicos. |
+
+<br><br>
+
+| User Story ID | US19  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Nosotros” |   |
+| Descripción   | Como visitante interesado en conocer más sobre la empresa, quiero acceder a una sección "Nosotros" clara y bien estructurada para comprender mejor la misión, visión, y valores de la empresa, y así sentir mayor confianza y conexión con la marca. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Accesibilidad y Diseño Responsivo  |
+|-------------------------------------------|
+| Dado que soy un usuario que visita el sitio web, |
+| Cuando accedo a la sección "Nosotros" desde el menú principal o desde un enlace directo en la página de inicio, |
+| Entonces debo poder visualizar la página sin problemas de carga y con un diseño que se adapte correctamente a la pantalla de mi dispositivo (ya sea móvil, tablet o escritorio). |
+|-------------------------------------------|
+| Escenario 2: Contenido Claro y Estructurado con Elementos Interactivos  | 
+| Dado que estoy explorando la sección "Nosotros" para obtener más información sobre la empresa, |
+| Cuando navego por las subsecciones de historia, misión, visión y valores, |
+| Entonces debo encontrar textos claros y bien organizados, así como elementos interactivos (como un video corporativo o un timeline de hitos importantes) que enriquezcan mi comprensión y experiencia. |
+
+<br><br>
+
+| User Story ID | US20  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Header” |   |
+| Descripción   | Como usuario del sitio web, quiero que el header sea claro y fácil de navegar, para que pueda encontrar rápidamente la información o sección que busco, lo que me permitirá tener una experiencia de usuario más fluida y satisfactoria. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Visualización de elementos esenciales en el header  |
+|-------------------------------------------|
+| Dado que estoy navegando en cualquier página del sitio web, |
+| Cuando cargo la página, |
+| Entonces debo ver claramente el logotipo de la empresa, el menú de navegación principal, y enlaces a las redes sociales o opciones de contacto. |
+| Y el logotipo debe estar vinculado a la página de inicio para facilitar el acceso rápido a ella. |
+|-------------------------------------------|
+| Escenario 2: Funcionalidad de los enlaces del menú  | 
+| Dado que deseó navegar a diferentes secciones del sitio a través del header, |
+| Cuando hago clic en cualquiera de los enlaces del menú, |
+| Entonces cada enlace debe llevarme a la sección correspondiente del sitio sin errores. |
+| Y la transición debe ser rápida y sin interrupciones. |
+
+<br><br>
+
+| User Story ID | US21  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Contacto” |   |
+| Descripción   | Como usuario que desea obtener más información o resolver dudas específicas, quiero acceder a una sección de contacto clara y fácil de usar, para que pueda comunicarme con la empresa de manera eficiente y sin complicaciones. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Formulario de Contacto Funcional  |
+|-------------------------------------------|
+| Dado que prefiero enviar un mensaje directo a través del sitio web, |
+| Cuando relleno y envío el formulario de contacto, |
+| Entonces el formulario debe validar los campos requeridos y enviarse correctamente, confirmándome que mi mensaje ha sido recibido con una notificación o mensaje en pantalla. |
+
+<br><br>
+
+| User Story ID | US22  | Epic ID | EP07  |
+|---------------|-------|---------|-------|
+| Título        | Sección “Colaboración” |   |
+| Descripción   | Como usuario interesado en colaborar con la organización, deseo encontrar una sección en el sitio web dedicada a la colaboración, para que pueda comprender fácilmente cómo puedo contribuir, cuáles son los beneficios y cómo iniciar el proceso. |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Contenido Explicativo Completo  |
+|-------------------------------------------|
+| Dado que estoy interesado en las oportunidades de colaboración, |
+| Cuando visite la sección de "Colaboración", |
+| Entonces debería encontrar una descripción clara y completa de los diferentes tipos de colaboración que ofrece la empresa (como asociaciones, contribuciones de contenido, patrocinios, o programas de voluntariado). |
+|-------------------------------------------|
+| Escenario 2: Proceso de Solicitud Claro  | 
+| Dado que he decidido aplicar para una colaboración, |
+| Cuando desee comenzar el proceso, |
+| Entonces debería encontrar un formulario de solicitud o instrucciones claras sobre cómo enviar mi propuesta de colaboración, incluyendo detalles sobre la información y documentos necesarios. |
 
 ### 3. **Impact Mapping.**
 ....
