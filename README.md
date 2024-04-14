@@ -1291,11 +1291,16 @@ El usuario se moverá entre distintas pantallas usando los botones presentas en 
 
 ### 4.6. **Domain-Driven Software Architecture.**
 ####    4.6.1. Software Architecture Context Diagram.
-....
+![ContextDiagram](Images/ContextDiagram.png)
+
 ####    4.6.2. Software Architecture Container Diagrams.
-....
+![ContainerDiagram](Images/ContainerDiagrams.png)
+
 ####    4.6.3. Software Architecture Components Diagrams.
-....
+![ComponentsDiagram](Images/ComponentsDiagrams.png)
+
+[**Miro Domain-Driven Software Architecture**](https://miro.com/app/board/uXjVKXvlnKw=/)
+
 ### 4.7. **Software Object-Oriented Design.**
 ####    4.7.1. Class Diagrams.
 ....
