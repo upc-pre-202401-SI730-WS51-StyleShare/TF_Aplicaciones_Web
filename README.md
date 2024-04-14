@@ -1134,6 +1134,33 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 <br><br>
 
+| User Story ID | US28  | Epic ID | EP04  |
+|---------------|-------|---------|-------|
+| Título        | Ver carrito de compras|   |
+| Descripción   | Como usuario, quiero dirigirme al carrito y revisar los productos agregados |  |
+
+**Criterios de aceptación:**
+
+| Escenario 1: Agregar prenda al carrito de compra  |
+|-------------------------------------------|
+| Dado que el usuario se encuentra en la pantalla principal de la aplicación web |
+| Y selecciona una prenda de su interés |
+| Cuando selecciona agregar al carrito |
+| Y selecciona el icono del carrito |
+| Entonces la aplicación le mostrará todas las prendas que se agregaron |
+|-------------------------------------------|
+| Escenario 2: Seleccionar prendas del carrito  | 
+| Dado que el usuario el usuario se encuentra en el carrito de compra |
+| y no quiere comprar todos las prendas que tiene agregadas |
+| cuando quita la selección de una prenda de su lista |
+| entonces la aplicación no agrega esa prenda al momento de realizar el pago |
+|-------------------------------------------|
+| Escenario 3: Navegación Secundaria  | 
+| Dado que el usuario selecciona todas las prendas de su interés |
+| y da clic en pagar ahora |
+| Entonces la aplicación lo redirigirá al apartado donde podrá agregar su método de pago y proceder con su compra |
+
+
 ### Epics:
 
 | EP01 : Como usuario quiero tener un registro y configuración del perfil del usuario  |
@@ -1157,7 +1184,6 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 | EP07 : Como usuario, quiero visitar el landing page de la pagina web  |
 |--------------------------------------------------------------------------------------|
 
-| EP08 : FALTA Technical Stories para los features del RESTful API. En ese caso, utilice el rol Developer en la redacción de la descripción de la User Story. Considere como Acceptance Criteria los posibles escenarios de interacción de request/response, siguiendo la estructura de Gherkin  |
 |--------------------------------------------------------------------------------------------------------|
 
 
