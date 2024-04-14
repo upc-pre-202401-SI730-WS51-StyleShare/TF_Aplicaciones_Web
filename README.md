@@ -614,7 +614,23 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 ## Capítulo IV: Product Design
 ### 1. **Style Guidelines.**
 ####     1.1. General Style Guidelines.
-....
+Branding
+Utilizamos un enfoque amigable, elegante y sencillo para nuestro Branding, con el cual buscamos transmitir confianza, seguridad y seriedad en el alquiler de prendas. 
+
+![LogoStyleShare](Images/LogoStyleShare.png)
+
+Tipografía: Nuestra fuente principal es Raleway, la cual garantiza legibilidad en todos los dispositivos y tamaños de pantalla, aparte mantener el uso de una sola fuente  mandate orden y uniformidad en toda la aplicación web.
+
+![Tipografia](Images/Tipografia.png)
+
+Colores: Utilizamos colores de tonalidades amarillo, verde y azul ya que queremos transmitir entusiasmos, bienestar, honestidad y seguridad a nuestro usuarios, asimos estos tienen una tonalidad oscura con el fin de mostrar una aplicación más elegante y estable.
+
+![Colores](Images/ColoresShare.png)
+
+Espacio: Se establecen márgenes y espacios uniformes en toda la aplicación para garantizar una experiencia ordenada y limpia sin sobrecargar su visión.
+ 
+Tono de comunicación: Esta es amigable y accesible pero profesional y confía al mismo tiempo, por otra parte, se mantiene el tono respetuoso hacia los usuarios a la par que refleja creatividad.
+
 ####     1.2. Web Style Guidelines.
 ....
 ### 2. **Information Architecture.**
