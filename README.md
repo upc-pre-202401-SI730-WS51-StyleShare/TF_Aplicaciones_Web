@@ -1516,11 +1516,27 @@ Sección Colaboración:
 
 
 ## Conclusiones
-....
+La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables.
+
 
 
 ## Bibliografía
-....
+American Psychological Association. (2020). Publication manual of the American Psychological Association (7th ed.). https://psycnet.apa.org/doi/10.1037/0000165-000
+
+
+Bala, D. (24 de mayo de 2021). Alquiler de ropa: Rentar tu propio clóset es la nueva tendencia. Vogue. https://www.vogue.mx/sustentabilidad/articulo/alquiler-de-ropa-de-tu-closet-todo-sobre-la-nueva-tendencia-de-moda
+ 
+
+El Ágora. (18 de agosto de 2021). La moda rápida tiñe de contaminación el agua de África. https://www.elagoradiario.com/agua/contaminacion-agua-rios-africa-industria-textil-moda-rapida/
+
+
+Gomez, A. y Fuenmayor, O. (5 de febrero de 2020). La insostenible sostenibilidad del fast-fashion. Seampedia. http://mitimitiestudio.com/20/seamp/la-insostenible-sostenibilidad-del-fast-fashion/
+
+
+Greenpeace. (22 de abril de 2022). Las exportaciones ropa usada terminan en montañas de basura, contaminando el aire y los ríos en África. https://es.greenpeace.org/es/sala-de-prensa/comunicados/las-exportaciones-ropa-usada-terminan-en-montanas-de-basura-contaminando-el-aire-y-los-rios-en-africa/
+ 
+
+Organización de las Naciones Unidas. (12 de abril de 2019). El costo ambiental de estar a la moda. https://news.un.org/es/story/2019/04/1454161
 
 
 ## Anexos
