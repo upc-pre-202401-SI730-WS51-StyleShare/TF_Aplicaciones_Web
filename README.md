@@ -1371,9 +1371,9 @@ Github: GitHub es una plataforma en línea que permite a los equipos colaborar e
 |Integrantes| Cuenta de GitHub      |
 |----------|-----------------------|
 |Agama Espinoza, Eric Fabrizio	| U202213358@upc.edu.pe |
-|Ramos Najar Tony Alexander| @upc.edu.pe |
-|More Rondon Christopher Sebastian| @upc.edu.pe |
-|Cortez Quezada, Joaquin Antonio	| @upc.edu.pe |
+|Ramos Najar Tony Alexander| u20211A153@upc.edu.pe |
+|More Rondon Christopher Sebastian| u202212199@upc.edu.pe |
+|Cortez Quezada, Joaquin Antonio	| u202212648@upc.edu.pe |
 ####    5.1.3. Source Code Style Guide & Conventions.
 ....
 ####    5.1.4. Software Deployment Configuration.
