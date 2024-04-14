@@ -1326,7 +1326,47 @@ El usuario se moverá entre distintas pantallas usando los botones presentas en 
 ## Capítulo V: Product Implementation, Validation & Deployment
 ### 5.1. Software Configuration Management.
 ####    5.1.1. Software Development Environment Configuration.
-....
+
+Project Management:
+
+WhatsApp: Aplicación de mensajería por dónde nos comunicamos para coordinar las tareas a realizar https://www.whatsapp.com/?lang=es_LA
+
+Notion: Notion es una herramienta de gestión de proyectos que permite a los equipos colaborar en tiempo real, organizar tareas y compartir información de manera eficiente. https://www.notion.so/es-es
+
+
+Requirements Management:
+
+Google Drive: Plataforma para almacenar archivos, en la cual se guardaron videos de las entrevistas y documentos que se utilizaron en la creación del informe. 
+https://drive.google.com/
+
+Product UX/UI Design:
+
+Figma: Herramienta para diseñar interfaces, la cual se utilizó para crear los wireframes y mockups de nuestro servicio https://www.figma.com/
+
+Git Hub: Plataforma para desarrollo de software, en la cual se almacenaron archivos del proyecto. https://github.com/
+
+
+Software Development:
+
+Visual Studio Code: Visual Studio Code es un editor de código ligero y altamente personalizable que ofrece una amplia gama de funciones y extensiones para facilitar el desarrollo de software. https://code.visualstudio.com/
+
+Miro: Espacio de trabajo para crear distintos tipos de archivos, el cuál se usó para crear diagramas https://miro.com/es/
+
+HTML: HTML es el lenguaje de marcado estándar utilizado para crear y diseñar páginas web. En StyleShare, utilizamos HTML para estructurar y organizar el contenido de nuestra aplicación web, lo que nos permite definir la jerarquía de los elementos y la presentación visual de la interfaz de usuario. https://developer.mozilla.org/en-US/docs/Web/HTML
+
+CSS: CSS es un lenguaje de diseño utilizado para definir la apariencia y el estilo visual de las páginas web. En StyleShare, utilizamos CSS para personalizar y dar formato al contenido de nuestra aplicación web, lo que nos permite controlar la tipografía, los colores, los márgenes y otros aspectos visuales de la interfaz de usuario. https://developer.mozilla.org/en-US/docs/Web/CSS
+
+
+Javascript: JavaScript es un lenguaje de programación utilizado en el desarrollo web para crear páginas interactivas y dinámicas. 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+Git: Git es un sistema de control de versiones distribuido que permite a los equipos colaborar en el desarrollo de software, realizar un seguimiento de los cambios en el código y gestionar las versiones de los archivos de forma eficiente. https://git-scm.com/
+
+
+Software Documentation and Project Management
+
+Github: GitHub es una plataforma en línea que permite a los equipos colaborar en el desarrollo de software, alojar repositorios de código y gestionar proyectos de forma eficiente. 
+
 ####    5.1.2. Source Code Management.
 |Integrantes| Cuenta de GitHub      |
 |----------|-----------------------|
