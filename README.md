@@ -33,18 +33,18 @@ width=50%"/>
 
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
-| 1.0       | |  | |   |
+| 1.0       | 13/04/2024 | Joaquin, Eric, Christopher, Tony | Realizacion del documento |  COMPLETADO |
 
 ### Project Report Collaboration Insights
 
-...
+[StyleShare GitHub](https://github.com/upc-pre-202401-SI730-WS51-StyleShare)
 
 ### Studen Outcome
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
 |-------------------|-------------------|------------|
-|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Joaquin Cortez**<br>TB1:<br>Para esta entrega se investigó sobre los principios de diseño para la página web para el diseño de los mock ups, considerando las users stories y las funcionalidades core del startup. <br>**Christopher Sebastian**<br>TB1:<br><br>**Tony Alexander**<br>TB1: <br><br>**Eric Agama**<br>TB1:Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>| Texto Conlusion.|
-|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Joaquin Cortez**<br>TB1:<br>Considerando las funcionalidades principales de nuestro proyecto, diseñe los wireframes, mockups y landing page. En cada uno se considero los principios de diseño. Asimismo, siguiendo el modelo ágil, redacte el ux canva y las user stories.  <br>**Christopher Sebastian**<br>TB1:<br><br>**Tony Alexander**<br>TB1: <br><br>**Eric Agama**<br>TB1:Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>| Texto Conclusion.|
+|Comunica oralmente sus <br>ideas y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto eningeniería.|**Joaquin Cortez**<br>TB1:<br>Para esta entrega se investigó sobre los principios de diseño para la página web para el diseño de los mock ups, considerando las users stories y las funcionalidades core del startup. <br>**Christopher Sebastian**<br>TB1:<br><br>**Tony Alexander**<br>TB1: <br><br>**Eric Agama**<br>TB1:Durante el proceso de desarrollo de prototipos para nuestros clientes, he reconocido la importancia fundamental de comprender sus necesidades y deseos. Esta comprensión se ha fortalecido a través de conversaciones significativas con mis compañeros, donde intercambiamos ideas y perspectivas para generar soluciones innovadoras y centradas en el cliente.<br>| La comunicación oral ha sido efectiva dentro del equipo, permitiendo un intercambio fluido de ideas y una comprensión compartida de los objetivos del proyecto. Se continuará fomentando esta comunicación para mantener la colaboración y el progreso del trabajo.|
+|Comunica en forma escrita ideas <br>y/o resultados con objetividad a <br>público de diferentes <br>especialidades y niveles <br>jerarquicos, en el marco del <br>desarrollo de un proyecto en ingeniería.|**Joaquin Cortez**<br>TB1:<br>Considerando las funcionalidades principales de nuestro proyecto, diseñe los wireframes, mockups y landing page. En cada uno se considero los principios de diseño. Asimismo, siguiendo el modelo ágil, redacte el ux canva y las user stories.  <br>**Christopher Sebastian**<br>TB1:<br><br>**Tony Alexander**<br>TB1: <br><br>**Eric Agama**<br>TB1:Este enfoque colaborativo nos ha permitido crear prototipos que no solo satisfacen las expectativas de nuestros clientes, sino que también superan sus expectativas al ofrecer soluciones que realmente resuelven sus problemas y agregan valor a sus vidas<br>| La comunicación escrita ha sido crucial para documentar el progreso del proyecto y asegurar la comprensión de los entregables entre los miembros del equipo. Se seguirá manteniendo un enfoque claro y conciso en la comunicación escrita para garantizar la eficacia y la calidad del trabajo.|
 
 ## Contenido
 
@@ -1509,6 +1509,7 @@ Software Documentation and Project Management
 Github: GitHub es una plataforma en línea que permite a los equipos colaborar en el desarrollo de software, alojar repositorios de código y gestionar proyectos de forma eficiente. 
 
 ####    5.1.2. Source Code Management.
+
 |Integrantes| Cuenta de GitHub      |
 |----------|-----------------------|
 |Agama Espinoza, Eric Fabrizio	| U202213358@upc.edu.pe |
@@ -1516,6 +1517,13 @@ Github: GitHub es una plataforma en línea que permite a los equipos colaborar e
 |More Rondon Christopher Sebastian| u202212199@upc.edu.pe |
 |Cortez Quezada, Joaquin Antonio	| u202212648@upc.edu.pe |
 
+Despliegues:
+
+https://upc-pre-202401-si730-ws51-styleshare.github.io/LandingPage/
+
+Repositorios:
+
+https://github.com/upc-pre-202401-SI730-WS51-StyleShare/LandingPage
 
 ![GitFlow](Images/Gitflow.jpg)
 
@@ -1648,12 +1656,14 @@ Sección Colaboración:
 ![Images](Images/COLABORACION2.png)
 
 #####         **5.2.1.6. Services Documentation Evidence for Sprint Review.**
-....
-#####         **5.2.1.7. Software Deployment Evidence for Sprint Review.**
-....
-#####         **5.2.1.8. Team Collaboration Insights during Sprint.**
-....
+Este primer Sprint solo trata la implementación del landing page, por lo que no se empleó ningún servicio adicional.
 
+#####         **5.2.1.7. Software Deployment Evidence for Sprint Review.**
+Para la entrega del Sprint número 1, se desplego el landing page parcialmente completa
+
+#####         **5.2.1.8. Team Collaboration Insights during Sprint.**
+![Team](Images/Commits.png)
+![Team](Images/Commits2.png)
 
 
 ## Conclusiones
