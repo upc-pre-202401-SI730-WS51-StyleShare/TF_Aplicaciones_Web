@@ -39,6 +39,8 @@ width=50%"/>
 
 [StyleShare GitHub](https://github.com/upc-pre-202401-SI730-WS51-StyleShare)
 
+![Report](Images/ReportCollaborationInsights.png)
+
 ### Student Outcome
 
 |Criterio Especifico|Acciones Realizadas|Conclusiones|
