@@ -522,6 +522,9 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 ![image](Images/UserPersona.png)
 
+## Segmento 2
+![image](Images/UserPersona2.png)
+
 ####     2.3.2. User Task Matrix.
 
 ![image](Images/userTaskMatrix.png)
