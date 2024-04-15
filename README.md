@@ -1193,7 +1193,14 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 ![ImpactMapping](Images/ImpactMap.png)
 
 ### 3.4 **Product Backlog.**
-
+|Orden|User Story ID|Título|Descripción|Story Points|
+|-----|-------------|------|-----------|------------|
+|1|US04|Configuración de perfil inicial|Como usuario, quiero completar mi perfil inicial para proporcionar información relevante.|3|
+|2|US07|Exploración de prendas recomendadas|Como usuario quiero que la aplicación me recomiende nuevas prendas relacionadas a mis intereses y gustos.|3|
+|3|US28| Ver carrito de compras|Como usuario, quiero dirigirme al carrito y revisar los productos agregados |5|
+|4|US13 |Visualizar todas mis publicaciones |Como usuario, quiero poder visualizar mis publicaciones para ver su estado y los comentarios interesados en el producto que ofrezco |3|
+|5|US08|Ver detalles de la prenda|Como usuario, quiero poder ver información detallada sobre la prenda que deseo alquilar para obtener todos los detalles relevantes.|5|
+|6|US14|Ayuda con problemas en la aplicación|Como usuario quiero poder ponerme en contacto con servicio al cliente para que me ayuden a resolver cualquier duda o problema que se me presente en la aplicación.|3|
 
 
 ## Capítulo IV: Product Design
