@@ -520,9 +520,11 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 ####     2.3.1. User Personas.
 
+## Segmento 2
+
 ![image](Images/UserPersona.png)
 
-## Segmento 2
+## Segmento 1
 ![image](Images/UserPersona2.png)
 
 ####     2.3.2. User Task Matrix.
@@ -531,7 +533,7 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 
 ####     2.3.3. User Journey Mapping.
 
-![image](Images/JourneyMap.png)
+![image](Images/UserJourneyMap.png)
 
 ####     2.3.4. Empathy Mapping.
 
