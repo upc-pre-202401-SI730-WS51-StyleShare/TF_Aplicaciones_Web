@@ -1718,8 +1718,9 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 | GW01 | Apartado Home             | G01 | Home page                       | Desarrollo e implementación de la pantalla Home con sus respectivos componentes.                                    | 2                  |   | -                                      |
 | GW02 | Apartado Lista de envios  | G02 | Bounded Context Lista de envios | Desarrollo e implementación de de la Lista de envios con sus respectivos componentes, modelos, servicios y paginas. | 3                  | Joaquin Antonio | Done                                     |
 | GW03 | Apartado Categorias       | G03 | Bounded Context Categorias      | Desarrollo e implementación de de la Categorias con sus respectivos componentes, modelos, servicios y paginas.      | 3                  |  Tony Alexander  | -                                      |
-| GW04 | Apartado Transacciones    | G05 | Bounded Context Transacciones   | Desarrollo e implementación de de la Transacciones con sus respectivos componentes, modelos, servicios y paginas.   | 3                  |  Christopher Sebastian  | -                                      |
-| GW05 | Apartado del usuario      | G06 | Bounded Context Usuario         | Desarrollo e implementación de de la Usuario con sus respectivos componentes, modelos, servicios y paginas.             | 2                  | Eric Fabrizzio | Done                                   |
+| GW04 | Apartado Transacciones    | G04 | Bounded Context Transacciones   | Desarrollo e implementación de de la Transacciones con sus respectivos componentes, modelos, servicios y paginas.   | 3                  |  Christopher Sebastian  | -                                      |
+| GW05 | Apartado del Usuario      | G05 | Bounded Context Usuario         | Desarrollo e implementación de de la Usuario con sus respectivos componentes, modelos, servicios y paginas.             | 2                  | Eric Fabrizzio | Done                                   |
+
 
 
 #####         **5.2.2.3. Development Evidence for Sprint Review.**
@@ -1732,13 +1733,17 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 En el segundo sprint, se llevó a cabo una implementación parcial de la aplicación web, que permite al usuario acceder y explorar ciertas funcionalidades. A continuación, se presentan algunas pruebas que respaldan este avance:
 
-Sección **********:
+Sección Publicar Prenda:
 
-Sección **********:
+Sección Publicaciones:
 
-Sección **********:
+Sección Lista de envíos:
 
-Sección **********:
+Sección Transacciones:
+
+Sección Categorías:
+
+Sección Usuarios:
 
 
 #####          **5.2.2.6. Services Documentation Evidence for Sprint Review.**
