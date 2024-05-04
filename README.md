@@ -34,6 +34,7 @@ width=50%"/>
 | Versión   | Fecha       | Autor      | Descripción                                                                                      | Estado    |
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       | 13/04/2024 | Joaquin, Eric, Christopher, Tony | Realizacion del documento |  COMPLETADO |
+|2.0|4/05/2024| Joaquin, Eric, Christopher, Tony|Creacion de la aplicación Web y Documentacion|COMPLETADO|
 
 ### Project Report Collaboration Insights
 
