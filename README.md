@@ -1752,6 +1752,8 @@ Sección Transacciones:
 
 Sección Categorías:
 
+![image](Imagenes/categoriesStyleShare.png)
+
 Sección Usuarios:
 
 
