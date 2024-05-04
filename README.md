@@ -1731,6 +1731,19 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 #####         **5.2.2.3. Development Evidence for Sprint Review.**
 
+| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Style-Share-front |main|b137d10| Update home.component.vue | -| 4/05/2024         |
+| Style-Share-front |main|eb3f3c5| Create login.component.vue | -| 4/05/2024|
+| Style-Share-front |main|073c72c| Create register.component.vue | -| 4/05/2024|
+| Style-Share-front |main|1e3462d| Create subscription.component.vue| -| 4/05/2024|
+| Style-Share-front |main|753077f| Update index.js | -|4/05/2024|
+| Style-Share-front |main|167332d| Update category-list.component.vue | -|4/05/2024|
+| Style-Share-front |main|9f7829a| Update db.json | -|4/05/2024|
+| Style-Share-front |main|fcd3d8c| Create buy-items.component.vue | -|4/05/2024|
+| Style-Share-front |main|59443e2| Create item.entity.js | -|4/05/2024|
+| Style-Share-front |main|617138b| Create transactions-api.service.js | -|4/05/2024|
+| Style-Share-front |main|9fbd1a0| Create item-card.component.vue | -|4/05/2024|
 
 
 
