@@ -1713,6 +1713,51 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 #####         **5.2.2.2. Sprint Backlog 2.**
 
+| id   | Title                     | Id  | Title                           | Description                                                                                                         | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
+| ---- |---------------------------| --- |---------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------------| ------------- |----------------------------------------|
+| GW01 | Apartado Home             | G01 | Home page                       | Desarrollo e implementación de la pantalla Home con sus respectivos componentes.                                    | 2                  |   | -                                      |
+| GW02 | Apartado Lista de envios  | G02 | Bounded Context Lista de envios | Desarrollo e implementación de de la Lista de envios con sus respectivos componentes, modelos, servicios y paginas. | 3                  | Joaquin Antonio | -                                      |
+| GW03 | Apartado Categorias       | G03 | Bounded Context Categorias      | Desarrollo e implementación de de la Categorias con sus respectivos componentes, modelos, servicios y paginas.      | 3                  |  Tony Alexander  | -                                      |
+| GW04 | Apartado Alquiler         | G04 | Bounded Context Alquiler        | Desarrollo e implementación de de la Alquiler con sus respectivos componentes, modelos, servicios y paginas.        | 4                  |  Jair Castillo  | -                                      |
+| GW05 | Apartado Transacciones    | G05 | Bounded Context Transacciones   | Desarrollo e implementación de de la Transacciones con sus respectivos componentes, modelos, servicios y paginas.   | 3                  |  Christopher Sebastian  | -                                      |
+| GW06 | Apartado del usuario      | G06 | Bounded Context Usuario         | Desarrollo e implementación de de la Usuario con sus respectivos componentes, modelos, servicios y paginas.             | 2                  | Jair Castillo | Done                                   |
+| GW07 | Apartado de publicaciones | G07 | Bounded Context Publicaciones   | Desarrollo e implementación de de la Publicaciones con sus respectivos componentes, modelos, servicios y paginas.             | 3                  | Adriano Cruz | -                                      |
+
+
+#####         **5.2.2.3. Development Evidence for Sprint Review.**
+
+
+#####         **5.2.2.4. Testing Suite Evidence for Sprint Review.**
+
+
+#####         **5.2.2.5. Execution Evidence for Sprint Review.**
+
+En el segundo sprint, se llevó a cabo una implementación parcial de la aplicación web, que permite al usuario acceder y explorar ciertas funcionalidades. A continuación, se presentan algunas pruebas que respaldan este avance:
+
+Sección **********:
+
+Sección **********:
+
+Sección **********:
+
+Sección **********:
+
+
+#####          **5.2.2.6. Services Documentation Evidence for Sprint Review.**
+
+
+#####          **5.2.2.7. Software Deployment Evidence for Sprint Review.**
+
+
+#####          **5.2.2.8. Team Collaboration Insights during Sprint.**
+| **Alumno** | **Actividad** |
+| --- | --- |
+| Eric Fabrizzio Agama Espinoza  | Implementación del Bounded Context Usuarios|
+| Christopher Sebastian More Rondon | Implementación del Bounded Context Transacciones|
+| Joaquin Antonio Cortez Quezada | Implementación del Bounded Context Envíos|
+| Ramos Najar Tony Alenxander | Implementación del Bounded Context Categorías |
+
+
 ## Conclusiones
 La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables.
 
