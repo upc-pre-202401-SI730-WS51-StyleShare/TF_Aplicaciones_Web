@@ -1695,6 +1695,23 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 ![Team](Images/Commits.png)
 ![Team](Images/Commits2.png)
 
+####    5.2.2. Sprint 2
+#####         **5.2.2.1. Sprint Planning 2.**
+| Sprint 2                         | Implementación del FrontEnd de la aplicación web.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 01/05/2024|
+| Time                             | 17:00 horas (GMT-5)|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | Cortez Quezada, Joaquin Antonio	|
+| PAttendees (to planning meeting) | <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon Christopher Sebastian </li> <li>Agama Espinoza, Eric Fabrizio   </li> <li>Ramos Najar Tony Alexander </li>|
+|Sprint n-2 US abarcados para la realización de la Aplicación Web|
+|User stories| <li>US-01: Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades.</li> <li>US-03: Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.</li> <li>US-04: 	Como usuario, quiero completar mi perfil inicial para proporcionar información relevante.</li> <li>US-05: Como usuario quiero buscar prendas por la app para seleccionar aquellas que se acomoden a mis preferencias.</li> <li>US-06: 	Como usuario quiero tener a mi disposición una serie de filtros para encontrar una prenda de mi interés más rápido.</li> <li>US-07: 	Como usuario quiero que la aplicación me recomiende nuevas prendas relacionadas a mis intereses y gustos.</li> <li>US-08: Como usuario, quiero poder ver información detallada sobre la prenda que deseo alquilar para obtener todos los detalles relevantes.</li> <li>US-09: Como usuario, quiero tener la opción de guardar una prenda en mi lista de favoritos para poder acceder rápidamente a ella en cualquier momento.</li> <li>US-10: Como usuario, quiero poder acceder al alquiler de cualquier prenda en la aplicación.</li> <li>US-11: 	Como usuario, quiero poder realizar el alquiler de una prenda por un tiempo determinado para tenerla en mi poder.</li> <li>US-12: Como usuario quiero tener la posibilidad de publicar las prendas en buen estado que ya no uso en la aplicación para generar algún tipo de ingreso.</li> <li>US-13: Como usuario, quiero poder visualizar mis publicaciones para ver su estado y los comentarios interesados en el producto que ofrezco.</li> <li>US-14: Como usuario quiero poder ponerme en contacto con servicio al cliente para que me ayuden a resolver cualquier duda o problema que se me presente en la aplicación.</li> <li>US-15: 	Como usuario quiero poder tener asesoramiento sobre moda sostenible para saber cómo puedo ayudar al medio ambiente.</li> <li>US-28: Como usuario, quiero dirigirme al carrito y revisar los productos agregados.</li>  |
+| **Sprint Goal & User Stories**   |
+| Sprint 2 Velocity                |  51 points|
+| Sum of Story Points              |  51 points|
+
+#####         **5.2.2.2. Sprint Backlog 2.**
 
 ## Conclusiones
 La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables.
