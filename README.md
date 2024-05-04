@@ -1792,7 +1792,46 @@ Enlace My Json: [Enlace](https://my-json-server.typicode.com/upc-pre-202401-SI73
 
 #####          **5.2.2.7. Software Deployment Evidence for Sprint Review.**
 
+Sección Publicar Prenda:
 
+![image](Images/PUBLICARPRENDA.png)
+
+[Enlace](https://webss-58fbb.web.app/post)
+
+Sección Publicaciones:
+
+![image](Images/HOME.png)
+
+[Enlace](https://webss-58fbb.web.app/home)
+
+Sección Lista de envíos:
+
+![image](Images/LISTA.png)
+
+[Enlace](https://webss-58fbb.web.app/envios)
+
+Sección Transacciones:
+
+![image](Images/CARRO.png)
+
+[Enlace](https://webss-58fbb.web.app/Buy)
+
+Sección Categorías:
+
+![image](Images/categoriesStyleShare.png)
+
+[Enlace](https://webss-58fbb.web.app/category)
+
+
+Sección Usuarios:
+
+![image](Images/SESION.png)
+
+[Enlace](https://webss-58fbb.web.app/login)
+
+![image](Images/REGISTRO.png)
+
+[Enlace](https://webss-58fbb.web.app/register)
 
 #####          **5.2.2.8. Team Collaboration Insights during Sprint.**
 | **Alumno** | **Actividad** |
