@@ -1854,6 +1854,9 @@ Sección Usuarios:
 | Joaquin Antonio Cortez Quezada | Implementación del Bounded Context Envíos|
 | Ramos Najar Tony Alenxander | Implementación del Bounded Context Categorías |
 
+![image](Images/evidence2.png)
+![image](Images/evidence4.png)
+![image](Images/evidence3.png)
 
 ## Conclusiones
 La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables.
