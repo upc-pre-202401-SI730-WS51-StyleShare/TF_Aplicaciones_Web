@@ -1757,8 +1757,22 @@ Sección Usuarios:
 
 #####          **5.2.2.6. Services Documentation Evidence for Sprint Review.**
 
+Durante el segundo sprint, nos enfocamos en el desarrollo del front-end, entregando tanto el landing page como la aplicación web. En el landing page, los usuarios pueden encontrar información detallada sobre la startup, mientras que en la aplicación web, pueden disfrutar de varias funcionalidades. Utilizamos un Fake API para simular datos, comenzando con un servidor JSON local y luego implementándolo en My JSON Server.
+
+Enlace My Json: [Enlace](https://my-json-server.typicode.com/upc-pre-202401-SI730-WS51-StyleShare/db-server)
+
+![image](Imagenes/jsonServer.png)
+
+|**Endpoint**|**Details**|
+| :- | :- |
+|/envios|  Información sobre envíos, incluyendo detalles como nombre, descripción, fecha de entrega, seguimiento, dirección y vendedor. |
+|/users| Endpoint en el cual se almacena datos de usuarios como el nombre de usuario, el email y la contraseña de inicio de sesión |
+|/clothes| Descripción exacta de alguna prenda, el cuál contiene un id, título, descripción, la categoría perteneciente, talla, material de fabricación, año de adquisición, días rentables, cuidados especiales y su respectiva imagen |
+|/cartItems |Elementos seleccionados en el carrito de compras, mostrando nombre, precio y vendedor de cada producto.|
+|/category |Listado de categorias disponibles en nuestra web, muestra el tipo de categoría, el rango de precios, una breve descripción, y los comentarios sobre dicha categoría|
 
 #####          **5.2.2.7. Software Deployment Evidence for Sprint Review.**
+
 
 
 #####          **5.2.2.8. Team Collaboration Insights during Sprint.**
