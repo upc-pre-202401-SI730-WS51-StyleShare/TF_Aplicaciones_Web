@@ -1752,7 +1752,7 @@ Sección Transacciones:
 
 Sección Categorías:
 
-![image](Imagenes/categoriesStyleShare.png)
+![image](Images/categoriesStyleShare.png)
 
 Sección Usuarios:
 
@@ -1763,7 +1763,7 @@ Durante el segundo sprint, nos enfocamos en el desarrollo del front-end, entrega
 
 Enlace My Json: [Enlace](https://my-json-server.typicode.com/upc-pre-202401-SI730-WS51-StyleShare/db-server)
 
-![image](Imagenes/jsonServer.png)
+![image](Images/jsonServer.png)
 
 |**Endpoint**|**Details**|
 | :- | :- |
