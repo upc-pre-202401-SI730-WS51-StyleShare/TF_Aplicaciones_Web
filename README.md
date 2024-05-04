@@ -1750,11 +1750,19 @@ En el segundo sprint, se llevó a cabo una implementación parcial de la aplicac
 
 Sección Publicar Prenda:
 
+![image](Images/PUBLICARPRENDA.png)
+
 Sección Publicaciones:
+
+![image](Images/HOME.png)
 
 Sección Lista de envíos:
 
+![image](Images/LISTA.png)
+
 Sección Transacciones:
+
+![image](Images/CARRO.png)
 
 Sección Categorías:
 
@@ -1762,6 +1770,9 @@ Sección Categorías:
 
 Sección Usuarios:
 
+![image](Images/SESION.png)
+
+![image](Images/REGISTRO.png)
 
 #####          **5.2.2.6. Services Documentation Evidence for Sprint Review.**
 
