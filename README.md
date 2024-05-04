@@ -1202,12 +1202,35 @@ Sandy Ingaruca: Se menciona que Sandy busca su ropa para eventos sociales en tie
 ### 3.4 **Product Backlog.**
 |Orden|User Story ID|Título|Descripción|Story Points|
 |-----|-------------|------|-----------|------------|
-|1|US04|Configuración de perfil inicial|Como usuario, quiero completar mi perfil inicial para proporcionar información relevante.|3|
-|2|US07|Exploración de prendas recomendadas|Como usuario quiero que la aplicación me recomiende nuevas prendas relacionadas a mis intereses y gustos.|3|
-|3|US28| Ver carrito de compras|Como usuario, quiero dirigirme al carrito y revisar los productos agregados |5|
-|4|US13 |Visualizar todas mis publicaciones |Como usuario, quiero poder visualizar mis publicaciones para ver su estado y los comentarios interesados en el producto que ofrezco |3|
-|5|US08|Ver detalles de la prenda|Como usuario, quiero poder ver información detallada sobre la prenda que deseo alquilar para obtener todos los detalles relevantes.|5|
-|6|US14|Ayuda con problemas en la aplicación|Como usuario quiero poder ponerme en contacto con servicio al cliente para que me ayuden a resolver cualquier duda o problema que se me presente en la aplicación.|3|
+|1|US01|Registro de usuario|Como usuario, quiero registrarme en la aplicación web para acceder a todas sus funcionalidades.|3|
+|2|US02|Verificación de correo electrónico|Como usuario, quiero recibir un correo electrónico de verificación después de registrarme.|1|
+|3|US03|Inicio de sesión|Como usuario registrado en la aplicación web quiero iniciar sesión en cualquier dispositivo donde esté disponible la aplicación web para usarla en el momento que desee.|2|
+|4|US04|Configuración de perfil inicial|Como usuario, quiero completar mi perfil inicial para proporcionar información relevante.|4|
+|5|US05|Búsqueda de prendas en la aplicación web|Como usuario quiero buscar prendas por la app para seleccionar aquellas que se acomoden a mis preferencias.|3|
+|6|US06|Agregar filtros de búsqueda avanzada|Como usuario quiero tener a mi disposición una serie de filtros para encontrar una prenda de mi interés más rápido.|4|
+|7|US07|Exploración de prendas recomendadas|Como usuario quiero que la aplicación me recomiende nuevas prendas relacionadas a mis intereses y gustos.|3|
+|8|US08|Ver detalles de la prenda|Como usuario, quiero poder ver información detallada sobre la prenda que deseo alquilar para obtener todos los detalles relevantes.|5|
+|9|US09|Guardar prendas en favoritos|Como usuario, quiero tener la opción de guardar una prenda en mi lista de favoritos para poder acceder rápidamente a ella en cualquier momento.|4|
+|10|US10|Ver sección de alquiler en la aplicación|Como usuario, quiero poder acceder al alquiler de cualquier prenda en la aplicación.|3|
+|11|US011|Realizar Alquiler de prendas|Como usuario, quiero poder realizar el alquiler de una prenda por un tiempo determinado para tenerla en mi poder.|4|
+|12|US12|Crear una nueva publicación|Como usuario quiero tener la posibilidad de publicar las prendas en buen estado que ya no uso en la aplicación para generar algún tipo de ingreso.|3|
+|13|US13 |Visualizar todas mis publicaciones |Como usuario, quiero poder visualizar mis publicaciones para ver su estado y los comentarios interesados en el producto que ofrezco |3|
+|14|US14|Ayuda con problemas en la aplicación|Como usuario quiero poder ponerme en contacto con servicio al cliente para que me ayuden a resolver cualquier duda o problema que se me presente en la aplicación.|3|
+|15|US15|Asesoramiento sobre moda sostenible|Como usuario quiero poder tener asesoramiento sobre moda sostenible para saber cómo puedo ayudar al medio ambiente.|4|
+|16|US16|Recopilación de información|Como consumidor quiero encontrar la información precisa para utilizar la aplicación web.|3|
+|17|US17|Beneficios al consumidor|Como arrendador quiero entender los beneficios que me aportara el uso de la página web.|4|
+|18|US18|Sección “Segmentos”|Como Asistente a eventos consciente de la moda, quiero entender los beneficios que me aportará el uso de la página web, para poder elegir con conocimiento las opciones que mejorarán mi experiencia en eventos.|3|
+|19|US19|Sección “Nosotros”|Como visitante interesado en conocer más sobre la empresa, quiero acceder a una sección "Nosotros" clara y bien estructurada para comprender mejor la misión, visión, y valores de la empresa, y así sentir mayor confianza y conexión con la marca.|3|
+|20|US20|Sección “Header”|Como usuario del sitio web, quiero que el header sea claro y fácil de navegar, para que pueda encontrar rápidamente la información o sección que busco, lo que me permitirá tener una experiencia de usuario más fluida y satisfactoria.|3|
+|21|US21|Sección “Contacto”|Como usuario que desea obtener más información o resolver dudas específicas, quiero acceder a una sección de contacto clara y fácil de usar, para que pueda comunicarme con la empresa de manera eficiente y sin complicaciones.|3|
+|22|US22|Sección “Colaboración”|Como usuario interesado en colaborar con la organización, deseo encontrar una sección en el sitio web dedicada a la colaboración, para que pueda comprender fácilmente cómo puedo contribuir, cuáles son los beneficios y cómo iniciar el proceso.|3|
+|23|US23|Sección “Footer”|Como usuario del sitio web, quiero que el footer ofrezca accesos directos a información relevante y recursos adicionales para mejorar mi experiencia de navegación y asegurar que encuentro fácilmente lo que necesito.|2|
+|24|US24|Sección “Inicia Sesión”|Como usuario del sitio web, quiero que la sección de inicio de sesión sea fácilmente accesible desde cualquier página, para poder acceder rápidamente a mi cuenta y utilizar las funcionalidades relacionadas.|3|
+|25|US25|Sección “Conoce más #1”|Como usuario, quiero conocer más sobre StyleShare.|2|
+|26|US26|Sección “Conoce más #2”|Como usuario, quiero conocer más sobre los Consumidores y Arrendadores de StyleShare.|2|
+|27|US27|Sección “Conoce más #3”|Como usuario, quiero conocer más sobre Contaminación y Sostenibilidad en la Industria de la Moda.|2|
+|28|US28|Ver carrito de compras|Como usuario, quiero dirigirme al carrito y revisar los productos agregados. |5|
+
 
 
 ## Capítulo IV: Product Design
