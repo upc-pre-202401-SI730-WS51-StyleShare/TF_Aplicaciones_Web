@@ -1753,7 +1753,7 @@ Para la entrega del Sprint número 1, se desplego el landing page parcialmente c
 
 | Repository                                     | Branch | Commit ID | Commit Message                                                                             | Commit Message Body | Commited On (Date) |
 |------------------------------------------------|--------|-----------|--------------------------------------------------------------------------------------------|---------------------|--------------------|
-|TonyRamosNajar/upc-pre-202401-SI730-WS51-StyleShare/acceptance-test|main|ebbeda8|Add files via upload||04/05/24|
+|[Enlace de Repositorio](https://github.com/upc-pre-202401-SI730-WS51-StyleShare/acceptance-test)|main|ebbeda8|Add files via upload||04/05/24|
 
 
 
