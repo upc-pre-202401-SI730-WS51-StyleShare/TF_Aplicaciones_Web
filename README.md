@@ -1890,6 +1890,24 @@ Sección Usuarios:
 ![image](Images/evidence4.png)
 ![image](Images/evidence3.png)
 
+
+### Validation Interviews
+
+ Entrevista 1: Fabrizio Mori
+ 
+ Edad: 18 años
+ 
+ Distrito: San Miguel
+
+ [Enlace a la entrevista]([https://webss-58fbb.web.app/login](https://drive.google.com/file/d/1j4wz-vsXULUCNQLlu3zsL7OW7BNFf6Vh/view?usp=sharing))
+ ![image](Images/entrevista_FabrizioMori_Web.png)
+
+ Resultados:
+ - La navegacion por el sitio es simple y facil de comprender
+ - El diseño de la seccion de Login podria mejorarse
+ - La eleccion de colores le da personalidad al sitio
+ 
+
 ## Conclusiones
 La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables.
 
