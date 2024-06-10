@@ -1924,17 +1924,12 @@ Sección Usuarios:
 #### 5.2.3.3. Development Evidence for Sprint Review
 | Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
 | -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
-| Style-Share-platform |main| |  | -| 9/06/2024         |
-| Style-Share-platform |main| |  | -| 9/06/2024|
-| Style-Share-platform |main| |  | -| 9/06/2024|
-| Style-Share-platform |main| | | -| 9/06/2024|
-| Style-Share-platform |main| |  | -|9/06/2024|
-| Style-Share-platform |main| |  | -|9/06/2024|
-| Style-Share-platform |main| |  | -|9/06/2024|
-| Style-Share-platform |main| |  | -|9/06/2024|
-| Style-Share-platform |main| |  | -|9/06/2024|
-| Style-Share-platform |main| |  | -|9/06/2024|
-| Style-Share-platform |main| |  | -|9/06/2024|
+| Style-Share-platform |main| cf105f4| feat: add rent  | -| 9/06/2024         |
+| Style-Share-platform |main| d11464a| feat: update sahed| -| 9/06/2024|
+| Style-Share-platform |main| 412dab2| Create IUserQueryService.cs| -| 9/06/2024|
+| Style-Share-platform |main| d7c6e07| Create CreateUserCommandFromResourceAssembler.cs| -| 9/06/2024|
+| Style-Share-platform |main| 7c2f1d1| Create UserResourceFromEntityAssembler.cs| -|9/06/2024|
+| Style-Share-platform |main| d1d03d5| Create UserController.cs| -|9/06/2024|
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
 Capturas del las Features 
@@ -1956,7 +1951,7 @@ Entrevista 1:
  
  Distrito: San Miguel
 
- [Enlace a la entrevista]([https://webss-58fbb.web.app/login](https://drive.google.com/file/d/1j4wz-vsXULUCNQLlu3zsL7OW7BNFf6Vh/view?usp=sharing))
+ [Enlace a la entrevista](https://drive.google.com/file/d/1j4wz-vsXULUCNQLlu3zsL7OW7BNFf6Vh/view?usp=sharing)
  
  ![image](Images/entrevista_FabrizioMori_Web.png)
 
@@ -1975,7 +1970,7 @@ Entrevistado 2:
 2. **Grabación de la Entrevista**:
     - [Link de la entrevista](https://drive.google.com/file/d/1rDLAOrv1g6AJmdZtYsXsYRBVwYezI7GH/view?usp=sharing)
     
-    ![image](Imagenes/entrevistasegmento2.png)
+    ![image](Images/entrevistasegmento2.png)
 
 3. **Resumen de la Entrevista**:
 
