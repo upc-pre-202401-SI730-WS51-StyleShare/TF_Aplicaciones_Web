@@ -2033,7 +2033,7 @@ Para continuar avanzando en nuestro objetivo de transformar la industria de la m
 
 Ampliar la variedad de prendas y estilos disponibles en la plataforma para satisfacer las necesidades de una gama más amplia de usuarios y eventos. Fortalecer la comunidad mediante la implementación de estrategias que fomenten la participación y la interacción entre los usuarios, creando un sentido de pertenencia y compromiso con la causa de la moda sostenible. Desarrollar recursos y campañas educativas para informar a los usuarios sobre los impactos del consumo de moda rápida y las ventajas de optar por el alquiler de prendas. Explorar oportunidades para expandir la presencia de Event Wear a nuevos mercados, aprovechando el creciente interés global en la sostenibilidad y la economía compartida.
 
-Estas recomendaciones nos permitirán avanzar en nuestro compromiso de promover un enfoque más consciente y colaborativo hacia la moda, al tiempo que consolidamos el impacto positivo de Event Wear en el medio ambiente y la sociedad.
+Estas recomendaciones nos permitirán avanzar en nuestro compromiso de promover un enfoque más consciente y colaborativo hacia la moda, al tiempo que consolidamos el impacto positivo de StyleShare en el medio ambiente y la sociedad.
 
 ## Bibliografía
 American Psychological Association. (2020). Publication manual of the American Psychological Association (7th ed.). https://psycnet.apa.org/doi/10.1037/0000165-000
