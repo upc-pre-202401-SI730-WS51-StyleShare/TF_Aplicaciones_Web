@@ -2046,6 +2046,78 @@ Entrevistado 2:
     - Calificación: 4 sobre 5. Miguel apreciaría si la aplicación considerara una mayor cantidad de funcionalidades para el usuario que publica prendas en la aplicación para que pueda mantener un registro de sus actividades.
 
 #### 5.3.3. Evaluaciones según heurísticas.
+
+#### ESCALA DE SEVERIDAD: 
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+#### Descripción 
+| Nivel | Descripción |
+| --- | --- |
+| Nivel 1 | Problema superficial: puede ser fácilmente superado por el usuario o ocurre con muy poca frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| Nivel 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase. |
+| Nivel 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| Nivel 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+
+#### Entrevista 2: 
+
+#### Problema 
+| Problema | Severidad | Heurística/Principio violada(o) |
+| --- | --- | --- |
+| 1.- Incluye botón de “ver mas” que no dirige a ningún lado | Nivel 3 | Consistencia y estándares (H4) |
+| 2.- Falta mayor cantidad de imágenes | Nivel 1 | Atractivo y minimalista diseño (H8) |
+| 3.- Barra de búsqueda no funcional | Nivel 3 | Control y libertad del usuario (H3) |
+| 4.- Imágenes sin fondo transparente | Nivel 2 | Atractivo y minimalista diseño (H8) |
+| 5.- Lista fuera del margen de la pantalla | Nivel 2 | Estética y diseño minimalista (H8) |
+
+
+#### DESCRIPCIÓN DE PROBLEMAS:
+
+- PROBLEMA #1:
+Severidad: Nivel 3
+Heurística violada: Consistencia y estándares (H4)
+Problema:
+Al momento de hacer clic en el botón de “ver más”, el usuario no es redirigido a ninguna página o sección específica. Esto causa confusión y frustra al usuario, ya que espera obtener más información o ser llevado a una nueva vista relevante.
+
+  Recomendación:
+La más práctica es que el botón de “ver más” sea configurado para dirigir a una página específica que contenga información adicional o relevante sobre el contenido actual.
+
+- PROBLEMA #2:
+Severidad: Nivel 1
+Heurística violada: Atractivo y minimalista diseño (H8)
+Problema:
+Falta una mayor cantidad de imágenes en las secciones de productos y categorías, lo que hace que la interfaz se vea vacía y menos atractiva. Esto puede hacer que la página parezca poco profesional o incompleta.
+
+ Recomendación:
+La más práctica es que se agreguen más imágenes de alta calidad y relevancia en las secciones correspondientes para mejorar la apariencia visual y proporcionar más contexto visual a los usuarios.
+
+- PROBLEMA #3:
+Severidad: Nivel 3
+Heurística violada: Control y libertad del usuario (H3)
+Problema:
+La barra de búsqueda no funciona correctamente, lo que impide a los usuarios encontrar rápidamente la información o los productos que están buscando. Esto limita la efectividad y la eficiencia del sitio.
+
+  Recomendación:
+La más práctica es que se solucione la funcionalidad de la barra de búsqueda para asegurar que los usuarios puedan buscar y encontrar información de manera eficiente.
+
+- PROBLEMA #4:
+Severidad: Nivel 2
+Heurística violada: Atractivo y minimalista diseño (H8)
+Problema:
+Las imágenes en el sitio no tienen un fondo transparente, lo que puede interferir con el diseño general y la estética del sitio. Esto puede hacer que el sitio se vea menos profesional y cohesivo.
+
+  Recomendación:
+La más práctica es que se utilicen imágenes con fondos transparentes o que se ajusten al diseño del sitio para mantener una apariencia limpia y profesional.
+
+- PROBLEMA #5:
+Severidad: Nivel 2
+Heurística violada: Estética y diseño minimalista (H8)
+Problema:
+La lista de productos o categorías se muestra fuera del margen de la pantalla, lo que dificulta la lectura y navegación. Esto afecta negativamente la experiencia del usuario y puede causar que los usuarios abandonen la página.
+
+  Recomendación:
+La más práctica es que se ajusten los márgenes y el diseño de la lista para que se mantenga dentro de los límites de la pantalla, asegurando una mejor legibilidad y navegación.
+
+
 #### 5.4. Video About-the-Product.
 
 ## Conclusiones
