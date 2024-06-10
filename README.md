@@ -1996,9 +1996,20 @@ Entrevistado 2:
 #### 5.4. Video About-the-Product.
 
 ## Conclusiones
-La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables.
 
+En el desarrollo de nuestro proyecto "StyleShare", hemos abordado de manera integral los desafíos del consumo excesivo en eventos especiales, centrándonos en ofrecer una alternativa sostenible al fast fashion. A través del análisis de los problemas identificados, así como de las hipótesis establecidas y los criterios de éxito definidos en el proceso de Lean UX, hemos evaluado el impacto de nuestra plataforma en relación con los objetivos planteados.
 
+Resultados y Validaciones
+
+Hemos observado una respuesta positiva por parte de los usuarios hacia la propuesta de Event Wear, reconociendo la necesidad de abordar el ciclo insostenible de compra y descarte de prendas para eventos especiales. La validación de nuestras hipótesis ha demostrado que hay un interés real en adoptar prácticas de consumo más conscientes y sostenibles. Además, hemos confirmado que la comunidad se involucra activamente en la plataforma, respaldando así nuestra visión de promover la reutilización y el intercambio de prendas.
+
+Recomendaciones y Hoja de Ruta
+
+Para continuar avanzando en nuestro objetivo de transformar la industria de la moda hacia prácticas más sostenibles, sugerimos enfocarnos en las siguientes áreas:
+
+Ampliar la variedad de prendas y estilos disponibles en la plataforma para satisfacer las necesidades de una gama más amplia de usuarios y eventos. Fortalecer la comunidad mediante la implementación de estrategias que fomenten la participación y la interacción entre los usuarios, creando un sentido de pertenencia y compromiso con la causa de la moda sostenible. Desarrollar recursos y campañas educativas para informar a los usuarios sobre los impactos del consumo de moda rápida y las ventajas de optar por el alquiler de prendas. Explorar oportunidades para expandir la presencia de Event Wear a nuevos mercados, aprovechando el creciente interés global en la sostenibilidad y la economía compartida.
+
+Estas recomendaciones nos permitirán avanzar en nuestro compromiso de promover un enfoque más consciente y colaborativo hacia la moda, al tiempo que consolidamos el impacto positivo de Event Wear en el medio ambiente y la sociedad.
 
 ## Bibliografía
 American Psychological Association. (2020). Publication manual of the American Psychological Association (7th ed.). https://psycnet.apa.org/doi/10.1037/0000165-000
