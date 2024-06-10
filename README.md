@@ -1941,14 +1941,37 @@ Sección Usuarios:
 ![image](Images/US35.png)
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### **User Endpoints**
+
 ![image](Images/EVI1.png)
+
 ![image](Images/EVI2.png)
+
+#### **Category Endpoints** 
+
+![image](Images/CategoryEndpoints.PNG)
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+#### **User RestfullApi Endpoints**
+
 | Método | Endpoint | Descripción |
 |---|---|---|
 | POST | /api/v1/User | Crear un nuevo usuario |
 | GET |/api/v1/User | Obtener todos los usuarios |
 | GET |/api/v1/User/{userId} | Obtener un usuario por su ID |
+
+#### **Category RestfullApi Endpoints**
+
+| Método | Endpoint                        | Descripción                                      |
+|--------|---------------------------------|--------------------------------------------------|
+| POST   | /api/Category/create            | Crea una nueva categoría                         |
+| GET    | /api/Category/{id}              | Obtiene una categoría por su ID                  |
+| PUT    | /api/Category/{categoryId}      | Actualiza una categoría por su ID                |
+| DELETE | /api/Category/{categoryId}      | Elimina una categoría por su ID                  |
+| PUT    | /api/Category/{categoryId}/favorite | Añade o quita una categoría de favoritos por su ID |
+
 
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 
