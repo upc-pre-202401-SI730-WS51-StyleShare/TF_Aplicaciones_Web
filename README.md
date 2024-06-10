@@ -1906,8 +1906,8 @@ Sección Usuarios:
 | PAttendees (to planning meeting) | <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon Christopher Sebastian </li> <li>Agama Espinoza, Eric Fabrizio   </li> <li>Ramos Najar Tony Alexander </li>|
 |Sprint n-3 US abarcados para la realización del BackEnd |
 |User stories| <li>US-29: Configuración de perfil inicial </li> <li>US-30: Visualizar todas mis publicaciones.</li> <li>US-31: Ver detalles de la prenda.</li> <li>US-32: Realizar alquiler de prendas.</li> <li>US-33: Ver todas las categorías.</li> <li>US-34: Visualizar lista de envíos .</li> <li>US-35: Registrar una transacción.</li> || **Sprint Goal & User Stories**   |
-| Sprint 3 Velocity                |   points|
-| Sum of Story Points              |   points|
+| Sprint 3 Velocity                |   25 points|
+| Sum of Story Points              |   25 points|
 
 ##### 5.2.3.2. Sprint Backlog 3
 | EPIC ID | EPIC Title | US ID | US Title | Description | Estimation (Hours) | Assigned To | Status |
