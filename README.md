@@ -1948,6 +1948,30 @@ Capturas del las Features
 
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
 
+| **Alumno** | **Actividad** |
+| --- | --- |
+| Eric Fabrizio Agama Espinoza| Implementación del RestfullApi Publicaciones|
+| Christopher Sebastian More Rondon | Implementación del RestfullApi Transacciones|
+| Joaquin Antonio Cortez Quezada | Implementación del RestfullApi Alquiler|
+| Ramos Najar Tony Alenxander | Implementación del RestfullApi Categorías |
+
+##### **RestfullApi Usuario:**
+
+![image](Images/UserDB.PNG)
+
+##### **RestfullApi Transacciones:**
+
+![image](Images/TransactionDB.PNG)
+
+##### **RestfullApi Alquiler:**
+
+![image](Images/RentDB.PNG)
+
+##### **RestfullApi Categorías:**
+
+![image](Images/CategoryDB.PNG)
+
+
 #### 5.3. Validation Interviews.
 
 ### Validation Interviews
