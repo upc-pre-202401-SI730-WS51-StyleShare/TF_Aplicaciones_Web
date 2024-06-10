@@ -1951,8 +1951,7 @@ Capturas del las Features
 
 ### Validation Interviews
 
- Entrevista 1: Fabrizio Mori
- 
+Entrevista 1: 
  Edad: 18 años
  
  Distrito: San Miguel
@@ -1966,8 +1965,32 @@ Capturas del las Features
  - El diseño de la seccion de Login podria mejorarse
  - La eleccion de colores le da personalidad al sitio
 
-#### 5.3.1. Diseño de Entrevistas.
-#### 5.3.2. Registro de Entrevistas.
+Entrevistado 2:
+
+1. **Datos del Entrevistado**:
+    - Nombres: Miguel
+    - Apellidos: Domenack Angeles
+    - Edad: 20
+    - Distrito: San Miguel
+2. **Grabación de la Entrevista**:
+    - [Link de la entrevista](https://drive.google.com/file/d/1rDLAOrv1g6AJmdZtYsXsYRBVwYezI7GH/view?usp=sharing)
+    
+    ![image](Imagenes/entrevistasegmento2.png)
+
+3. **Resumen de la Entrevista**:
+
+    Evaluación de la Landing Page:
+
+    - Facilidad de uso: Miguel encuentra muy intuitiva y fácil de usar la landing page, ya que cuenta con opciones que permite dirigirse directamente a la información que le interesa.
+    - Diseño visual: Le gusta los colores seleccionados en la página, así mismo, considera la distribución de la información en nuestra landing una característica a destacar, aunque le parecería mejor colocar más imágenes relacionadas a la información que se presenta.
+    - Calificación: 4 sobre 5. Miguel aprecia la distribución y facilidad de navegación, pero destaca la necesidad de consistencia visual.
+
+    Evaluación del Frontend:
+
+    - Funcionalidad: La aplicación le permite visualizar varios detalles sobre las prendas que se muestran en la aplicación, así como la permite chatear con los arrendadores para estar aun mas informado, aunque considera la falta de funciones donde el usuario pueda visualizar su historial de todas sus operaciones la aplicación un punto negativo.
+    - Diseño y usabilidad: Miguel aprecia el poder navergar por aplicación sin la necesidad de dar muchos clics, además considera los colores que se utilizan como un punto a favor.
+    - Calificación: 4 sobre 5. Miguel apreciaría si la aplicación considerara una mayor cantidad de funcionalidades para el usuario que publica prendas en la aplicación para que pueda mantener un registro de sus actividades.
+
 #### 5.3.3. Evaluaciones según heurísticas.
 #### 5.4. Video About-the-Product.
 
