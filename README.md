@@ -1932,7 +1932,13 @@ Sección Usuarios:
 | Style-Share-platform |main| d1d03d5| Create UserController.cs| -|9/06/2024|
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review
-Capturas del las Features 
+![image](Images/US29.png)
+![image](Images/US30.png)
+![image](Images/US31.png)
+![image](Images/US32.png)
+![image](Images/US33.png)
+![image](Images/US34.png)
+![image](Images/US35.png)
 
 #### 5.2.3.5. Execution Evidence for Sprint Review
 ![image](Images/EVI1.png)
