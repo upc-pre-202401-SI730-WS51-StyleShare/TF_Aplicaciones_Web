@@ -1891,6 +1891,69 @@ Sección Usuarios:
 ![image](Images/evidence3.png)
 
 
+
+
+#####         **5.2.3. Sprint 3.**
+
+##### 5.2.3.1. Sprint Planning 3
+| Sprint 3                         | Implementación del web service.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 09/06/2024|
+| Time                             | 17:00 horas (GMT-5)|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | Cortez Quezada, Joaquin Antonio	|
+| PAttendees (to planning meeting) | <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon Christopher Sebastian </li> <li>Agama Espinoza, Eric Fabrizio   </li> <li>Ramos Najar Tony Alexander </li>|
+|Sprint n-3 US abarcados para la realización del BackEnd |
+|User stories| <li>US-01: .</li> <li>US-05: .</li> <li>US-06: 	.</li> <li>US-07: 	.</li> <li>US-08: .</li> <li>US-09: .</li> <li>US-10: .</li> <li>US-11: 	.</li> <li>US-12: .</li> <li>US-13: .</li> <li>US-28: .</li>  |
+| **Sprint Goal & User Stories**   |
+| Sprint 3 Velocity                |   points|
+| Sum of Story Points              |   points|
+
+##### 5.2.3.2. Sprint Backlog 3
+| EPIC ID | EPIC Title | US ID | US Title | Description | Estimation (Hours) | Assigned To | Status |
+|---------|------------|-------|----------|-------------|--------------------|-------------|--------|
+| EP01 |  | US-01 |  |  | 4 horas | Eric Agama |  |
+|EP01| |US-03| | |3 horas|Eric Agama| |
+|EP02| |US-05| | |3 horas|Joaquin Cortez| |
+|EP02| |US-06| | |2 horas|Tony Ramos| |
+|EP02| |US-07| | |3 horas|Christopher More| |
+|EP03| |US-08| | |3 horas|Christopher More| |
+|EP03| |US-09| | |3 horas|Tony Ramos| |
+|EP04| |US-10| | |4 horas|Tony Ramoz| |
+|EP04| |US-11| | |3 horas|Eric Agama| |
+|EP05| |US-12| | |5 horas|Joaquin Cortez| |
+|EP05| |US-13| | |3 horas|Joaquin Cortez| |
+|EP04| |US-28| | |3 horas|Christopher More| |
+
+#### 5.2.3.3. Development Evidence for Sprint Review
+| Repository | Branch           | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| -----------| ---------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| Style-Share-platform |main| |  | -| 9/06/2024         |
+| Style-Share-platform |main| |  | -| 9/06/2024|
+| Style-Share-platform |main| |  | -| 9/06/2024|
+| Style-Share-platform |main| | | -| 9/06/2024|
+| Style-Share-platform |main| |  | -|9/06/2024|
+| Style-Share-platform |main| |  | -|9/06/2024|
+| Style-Share-platform |main| |  | -|9/06/2024|
+| Style-Share-platform |main| |  | -|9/06/2024|
+| Style-Share-platform |main| |  | -|9/06/2024|
+| Style-Share-platform |main| |  | -|9/06/2024|
+| Style-Share-platform |main| |  | -|9/06/2024|
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+Capturas del las Features 
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+#### 5.2.3.6.Services Documentation Evidence for Sprint Review.
+
+#### 5.2.3.7.Software Deployment Evidence for Sprint Review.
+
+#### 5.2.3.8.Team Collaboration Insights during Sprint.
+
+#### 5.3. Validation Interviews.
+
 ### Validation Interviews
 
  Entrevista 1: Fabrizio Mori
@@ -1900,13 +1963,18 @@ Sección Usuarios:
  Distrito: San Miguel
 
  [Enlace a la entrevista]([https://webss-58fbb.web.app/login](https://drive.google.com/file/d/1j4wz-vsXULUCNQLlu3zsL7OW7BNFf6Vh/view?usp=sharing))
+ 
  ![image](Images/entrevista_FabrizioMori_Web.png)
 
  Resultados:
  - La navegacion por el sitio es simple y facil de comprender
  - El diseño de la seccion de Login podria mejorarse
  - La eleccion de colores le da personalidad al sitio
- 
+
+#### 5.3.1. Diseño de Entrevistas.
+#### 5.3.2. Registro de Entrevistas.
+#### 5.3.3. Evaluaciones según heurísticas.
+#### 5.4. Video About-the-Product.
 
 ## Conclusiones
 La efectividad de la comunicación, tanto oral como escrita, ha sido fundamental en el desarrollo y avance del proyecto. La fluidez en el intercambio de ideas durante las discusiones orales ha permitido una comprensión compartida de los objetivos y ha fomentado la colaboración entre los miembros del equipo. Este enfoque continuará siendo promovido para sostener el progreso y la cohesión grupal. Por otro lado, la comunicación escrita ha desempeñado un papel crucial en la documentación del progreso del proyecto y en la clarificación de los entregables.
