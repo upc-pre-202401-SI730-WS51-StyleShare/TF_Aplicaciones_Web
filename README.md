@@ -2000,6 +2000,46 @@ Sección Usuarios:
 
 ![image](Images/CategoryDB.PNG)
 
+#####         **5.2.4. Sprint 4.**
+
+##### 5.2.4.1. Sprint Planning 4
+| Sprint 4                         | Implementación del web service.|
+| -------------------------------- | ----------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 26/06/2024|
+| Time                             | 17:00 horas (GMT-5)|
+| Location                         | Reunión realizada mediante Discord|
+| Prepared By                      | 	|
+| PAttendees (to planning meeting) | <li>Cortez Quezada, Joaquin Antonio</li>	 <li>More Rondon Christopher Sebastian </li> <li>Agama Espinoza, Eric Fabrizio   </li> <li>Ramos Najar Tony Alexander </li>|
+|Sprint n-1 US abarcados para la realización del BackEnd |
+|User stories| <li>US-29: Configuración de perfil inicial </li> <li>US-30: Visualizar todas mis publicaciones.</li> <li>US-31: Ver detalles de la prenda.</li> <li>US-32: Realizar alquiler de prendas.</li> <li>US-33: Ver todas las categorías.</li> <li>US-34: Visualizar lista de envíos .</li> <li>US-35: Registrar una transacción.</li> || **Sprint Goal & User Stories**   |
+| Sprint 4 Velocity                |   25 points|
+| Sum of Story Points              |   25 points|
+
+##### 5.2.4.2. Sprint Backlog 4.
+
+
+##### 5.2.4.3. Development Evidence for Sprint Review.
+
+
+##### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+
+
+##### 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+
+##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+
+##### 5.2.4.8. Team Collaboration Insights during Sprint.
+
+
+
+
+
 
 #### 5.3. Validation Interviews.
 
