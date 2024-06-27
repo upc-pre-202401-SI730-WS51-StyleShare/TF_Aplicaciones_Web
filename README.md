@@ -2028,8 +2028,50 @@ Sección Usuarios:
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
 
+ **RestfullApi Transacciones:**
+
+![image](Images/styleshare-transactions-executionTF.png)
+
+ **RestfullApi Publicaciones:**
+
+![image](Images/styleshare-publications-executionTF.png)
 
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+ **RestfullApi Transacciones:**
+
+![image](Images/styleshare-transactions-documentationTF.png)
+
+| Método | Endpoint                        | Descripción                                      |
+|--------|---------------------------------|--------------------------------------------------|
+| GET   | /api/v1/-transaction/{transactionId}            | Obtiene una transaccion por Id         |
+| GET    | /api/v1/-transaction             | Obtiene todas las transacciones                 |
+| POST    | /api/v1/-transaction      | Crea una nueva transaccion               |
+| PUT | /api/v1/-transaction/{transactionId}/rent     | Añade la Id de una renta a una transaccion|
+| GET   | /api/v1/-transaction-history/{transactionHistoryId}            | Obtiene un historial porId         |
+| GET    | /api/v1/-transaction-history            | Obtiene todos los historiales                 |
+| POST    | /api/v1/-transaction-history     | Crea un nuevo historial              |
+| PUT | /api/v1/-transaction-history/{transactionHistoryId}/transacion     | Añade la Id de una transaccion a un historial|
+
+ **RestfullApi Publicaciones:**
+
+![image](Images/styleshare-publications-documentationTF.png)
+
+| Método | Endpoint                        | Descripción                                      |
+|--------|---------------------------------|--------------------------------------------------|
+| GET   | /api/v1/-comments/{commentId}            | Obtiene un comentation por Id         |
+| PUT | /api/v1/-comments/{commentId}    | Actualiza un comentario|
+| GET    | /api/v1/-comments            | Obtiene todos los comentarios               |
+| POST    | /api/v1/-comments       | Crea un nuevo comentario               |
+| GET   | /api/v1/-garments/{garmentId}            | Obtiene una prenda por Id         |
+| PUT | /api/v1/-garments/{garmentId}     | Actualiza una prenda|
+| GET    | /api/v1/-garments        | Obtiene todas las prendas               |
+| POST    | /api/v1/-garments      | Crea una nueva prenda               |
+| GET   | /api/v1/-publications/{publicationId}            | Obtiene una publicacion por Id         |
+| PUT | /api/v1/-publications/{publicationId}     | Actualiza una publicacion|
+| GET    | /api/v1/-publications       | Obtiene todas las publicaciones              |
+| POST    | /api/v1/-publications      | Crea una nueva publicacion              |
+| PUT | /api/v1/-publications/{publicationId}/comments     | Añade un comentario a una publicacion|
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
