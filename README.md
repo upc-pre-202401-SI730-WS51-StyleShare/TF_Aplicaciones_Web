@@ -2120,6 +2120,18 @@ Sección Usuarios:
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
 
+ **RestfullApi Rent:**
+
+ ![image](Images/bc-rent1.png)
+
+ ![image](Images/bc-rent2.png)
+
+ ![image](Images/bc-rent3.png)
+
+  ![image](Images/bc-rent4.png)
+
+ ![image](Images/bc-rent5.png)
+
  **RestfullApi Transacciones:**
 
 ![image](Images/styleshare-transactions-executionTF.png)
