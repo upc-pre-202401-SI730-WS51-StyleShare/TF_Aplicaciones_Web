@@ -2258,7 +2258,10 @@ A continuación, se presentan las evidencias de una correcta implementación del
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
+![image](Images/SoftwareDeploymentSprint4.png)
+![image](Images/SoftwareDeploymentSprint42.png)
 
+[Enlace desplegado](https://styleshare-frontend3.web.app/home)
 
 #### 5.2.4.8.Team Collaboration Insights during Sprint.
 
