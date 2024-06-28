@@ -2120,6 +2120,8 @@ Sección Usuarios:
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
 
+Durante este sprint, logramos implementar con éxito el front-end en Vue y desplegarlo en Firebase. Definimos y desarrollamos contextos clave como Categorías, Publicaciones, Envíos, Transacciones. Implementamos políticas de CORS para una comunicación segura y un robusto sistema de autenticación. Mejoramos la gestión de datos utilizando JSON en el back-end.
+
  **RestfullApi Rent:**
 
  ![image](Images/bc-rent1.png)
@@ -2136,11 +2138,33 @@ Sección Usuarios:
 
 ![image](Images/styleshare-transactions-executionTF.png)
 
+![image](Images/transactionid.jpeg)
+
+![image](Images/transactionpost.jpeg)
+
  **RestfullApi Publicaciones:**
 
 ![image](Images/styleshare-publications-executionTF.png)
 
+![image](Images/publicationidget.jpeg)
+
+![image](Images/publicationpost.jpeg)
+
+**RestfullApi Categorias:**
+
+![image](Images/categorypost1.png)
+
+![image](Images/categorypost2.png)
+
+![image](Images/categoryget1.png)
+
+![image](Images/categoryget2.png)
+
 ##### 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+Durante este sprint, logramos implementar con éxito nuestro front-end en Vue y desplegarlo en Firebase. También estructuramos y desarrollamos contextos clave como Categorías, Publicaciones, Envíos, Transacciones. Implementamos políticas CORS para la comunicación segura entre front-end y back-end. Optimizamos el manejo de datos utilizando JSON en el back-end. Este sprint fue crucial para establecer una base sólida y avanzar hacia nuestros objetivos estratégicos.
+
+A continuación, se presentan las evidencias de una correcta implementación del RESTFUL Service
 
  **RestfullApi Transacciones:**
 
@@ -2175,7 +2199,21 @@ Sección Usuarios:
 | PUT | /api/v1/-publications/{publicationId}     | Actualiza una publicacion|
 | GET    | /api/v1/-publications       | Obtiene todas las publicaciones              |
 | POST    | /api/v1/-publications      | Crea una nueva publicacion              |
-| PUT | /api/v1/-publications/{publicationId}/comments     | Añade un comentario a una publicacion|
+| PUT | /api/v1/-publications/{publicationId}/comments     | Añade un comentario a una publicacion|}}
+
+ **RestfullApi Categorias:**
+
+ ![image](Images/categoryRestful.png)
+
+ | Método | Endpoint                        | Descripción                                      |
+|--------|---------------------------------|--------------------------------------------------|
+| GET   | /{categoryId}            | Obtiene una categoria por Id         |
+| DELETE | /{categoryId}    | Elimina una categoria por Id  |
+| POST    | /            | Crea una nueva categoria               |
+| GET    | /      | Obtiene todas las categorias               |
+| PUT   | /{id}            | Actualiza una categoria por Id        |
+| GET | /favorites     | Devuelve todas las categorias en favoritos |
+
 
 
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
