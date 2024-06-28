@@ -2440,7 +2440,8 @@ La más práctica es que se ajusten los márgenes y el diseño de la lista para 
 
 ####
 
-![image](AboutTheTeamImage.png)
+
+
 [Link de About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Eaf9eDS-QqFOlRXRvmzc2W4BxbiqD-XJiyjYpgyhWI0xug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SFV0Pj)
 ## Conclusiones
 
