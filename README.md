@@ -2019,6 +2019,8 @@ Sección Usuarios:
 
 ##### 5.2.4.2. Sprint Backlog 4.
 
+En este sprint del proyecto "Style-share-platform", el equipo está enfocado en desarrollar y completar múltiples historias de usuario relacionadas con funcionalidades clave como ver detalles de prendas, configuración de perfil, visualización de publicaciones, alquiler de prendas, visualización de categorías, visualización de envíos y visualización de transacciones, asignando tareas específicas a diferentes miembros del equipo para su implementación y prueba.
+
 | User Story |                  | Work Item/Task                     |            |                |               |          |          |
 |------------|------------------|------------------------------------|------------|----------------|---------------|----------| -------- |
 | ID         | Title            | ID                                 | Title      | Description    | Estimation    | Assigned | Status   |
@@ -2116,7 +2118,7 @@ Sección Usuarios:
 
 LINK [https://github.com/upc-pre-202401-SI730-WS51-StyleShare/Style-Share-platform/commits/main/]
 
-En este sprint del proyecto Event-Wear-platform, en el frontend se avanzó significativamente con Angular, implementando mejoras en la interfaz de usuario y en la experiencia del usuario. En el backend, se completó la configuración inicial del repositorio y se avanzó en la implementación de varios bounded contexts, incluyendo renta, envíos, publicaciones, categorías y transacciones. Se integraron métodos REST y Swagger para mejorar la documentación y facilitar las pruebas de la API. Además, se llevaron a cabo correcciones importantes en la lógica y estructura del código, consolidando una base robusta para el desarrollo continuo del backend del proyecto.
+En este sprint del proyecto Style-Share-platform, en el frontend se avanzó significativamente con Vue.js, implementando mejoras en la interfaz de usuario y en la experiencia del usuario. En el backend, se completó la configuración inicial del repositorio y se avanzó en la implementación de varios bounded contexts, incluyendo renta, publicaciones, categorías y transacciones. Se integraron métodos REST y Swagger para mejorar la documentación y facilitar las pruebas de la API. Además, se llevaron a cabo correcciones importantes en la lógica y estructura del código, consolidando una base robusta para el desarrollo continuo del backend del proyecto.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
 | --- | --- | --- | --- | --- | --- |
