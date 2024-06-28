@@ -2438,11 +2438,12 @@ La más práctica es que se ajusten los márgenes y el diseño de la lista para 
 [Link de About The Product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/ERfz9xnQKb9Bq9SJcaePri0Bjohi1mCsIIdC7au6D8U2EQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=f4khsq)
 ![image](https://github.com/upc-pre-202401-SI730-WS51-StyleShare/TF_Aplicaciones_Web/assets/163957942/435bd059-139c-4422-ab68-de9228207d55)
 
-####
+#### 5.5. Video About-the-Team.
 
+[Link de About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Eaf9eDS-QqFOlRXRvmzc2W4BxbiqD-XJiyjYpgyhWI0xug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SFV0Pj)
 
 ![image](Images/AboutTheTeamImage.png)
-[Link de About The Team](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202213358_upc_edu_pe/Eaf9eDS-QqFOlRXRvmzc2W4BxbiqD-XJiyjYpgyhWI0xug?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=SFV0Pj)
+
 ## Conclusiones
 
 En el desarrollo de nuestro proyecto "StyleShare", hemos abordado de manera integral los desafíos del consumo excesivo en eventos especiales, centrándonos en ofrecer una alternativa sostenible al fast fashion. A través del análisis de los problemas identificados, así como de las hipótesis establecidas y los criterios de éxito definidos en el proceso de Lean UX, hemos evaluado el impacto de nuestra plataforma en relación con los objetivos planteados.
