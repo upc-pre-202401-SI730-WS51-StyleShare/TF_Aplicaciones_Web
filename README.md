@@ -2114,6 +2114,42 @@ Sección Usuarios:
 
 ##### 5.2.4.3. Development Evidence for Sprint Review.
 
+LINK [https://github.com/upc-pre-202401-SI730-WS51-StyleShare/Style-Share-platform/commits/main/]
+
+En este sprint del proyecto Event-Wear-platform, en el frontend se avanzó significativamente con Angular, implementando mejoras en la interfaz de usuario y en la experiencia del usuario. En el backend, se completó la configuración inicial del repositorio y se avanzó en la implementación de varios bounded contexts, incluyendo renta, envíos, publicaciones, categorías y transacciones. Se integraron métodos REST y Swagger para mejorar la documentación y facilitar las pruebas de la API. Además, se llevaron a cabo correcciones importantes en la lógica y estructura del código, consolidando una base robusta para el desarrollo continuo del backend del proyecto.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Committed on (Dated) |
+| --- | --- | --- | --- | --- | --- |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | a1e68359c80a33424f17a124911c941aa5a3fe1c | Add files via upload |  | 28/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | 5b691c4e0400bc9bcc96f239797575c71ccd9c84 | Delete Style-Share/StyleShare.Platform.API/Rent/Interfaces/REST directory |  | 28/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | a93e1b07561e5b27d30d19c763445ddc0f83d560 | Add files via upload |  | 28/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | f42bf6432229cde3d37b8d12fb36d1bf0e1fabb3 | Delete Style-Share/StyleShare.Platform.API/Rent/Infrastructure/Persistence/EFC/Repository directory |  | 28/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | 3ea49100225565779ef519b5c192fdc64d3bb54e | Add files via upload |  | 28/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | fe709f86af05073e778a8d4720072779e5a5e80a | Delete Style-Share/StyleShare.Platform.API/Rent/Domain directory |  | 28/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | 0128171b0250472b903a9893af58cc2454fe659e | Add files via upload |  | 28/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | 9fc2b8454e4864c731e324960d354f37c6d71a39 | Delete Style-Share/StyleShare.Platform.API/Rent/Application/Internal directory |  | 28/06/24 |
+| TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | 97e509dc919bc289fba75c5c896cb592e7f6d0c5 | feat: fix Category Controller CORS |  | 28/06/24 |
+| TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/categories | 36b90cfa0611c00bf7785e07ec09c674d6dbc6ac | Merge branch 'feature/categories' of https://github.com/upc-pre-202401-SI730-WS51-StyleShare/Style-Share-platform into feature/categories |  | 27/06/24 |
+| TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/categories | 3561d0b6c0f11db169f13b476109def5eff99086 | feat: Added Category Backend API RESTFUL |  | 27/06/24 |
+| TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/categories | e468a0b1691d9cac2e44a1828bc8a6e320be3a41 | Delete styleshareCategories_platform.zip |  | 27/06/24 |
+| christopherMore1/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/publications | 219b04082a467031f8324a8f87d71ca04637fe95 | Add files via upload |  | 26/06/24 |
+| christopherMore1/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/publications | 8a2164badb087f556fc77aec9c74ea7d3dce383f | Add files via upload |  | 23/06/24 |
+| christopherMore1/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/publications | 827017fcbbbf854dbec7bed6687068b1123d6378 | Add files via upload |  | 23/06/24 |
+| christopherMore1/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/publications | 77dec3c4add8c836cfb92ef2def8d9f4cac14760 | Add files via upload |  | 23/06/24 |
+| christopherMore1/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/publications | d26158640f5ec9cf38af80769aea5de8d1da2ea3 | Delete Style-Share directory |  | 23/06/24 |
+| christopherMore1/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/publications | 3cbc057e0f3daac38cd30b6495b2ba44b159b7fe | Add files via upload |  | 22/06/24 |
+| christopherMore1/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/publications | 79ebab4b189aaafa81ddb272c0a8cc7263ffd539 | Delete Style-Share/StyleShare.Platform.API/Publications directory |  | 22/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/rent | b6bb3d77fdebf7d1e767f6431342586dde72d00d | update rent |  | 22/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/rent | 4e5ba7e6408eecc9dbbe71a0064a4d460b6d08bc | Add files via upload |  | 22/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/rent | 7097d5c818f7434caf7f3a815e78f205920a7615 | Update AppDBContext.cs |  | 22/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/rent | 32fba0749e21c1a365d0b2655a455d3fe7a111a0 | Update Program.cs |  | 22/06/24 |
+| Joaqquin0/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | main | 0804401313e7f9f9994f208f22b649cd7b220bc2 | Delete Style-Share/StyleShare.Platform.API/Rent directory |  | 22/06/24 |
+| christopherMore1/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/publications | d789428b293e3ddefcd79911bd051251c2d57ede | Add files via upload |  | 21/06/24 |
+| TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/categories | 19ab4b022897712ba6d49226a4a9d3c57e5cac3c | Add files via upload |  | 21/06/24 |
+| TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/categories | c3be0b4fc9ad953dea2571c8bc3667b56d38e108 | Delete styleshareCategories_platform/eventWearCategories.sln |  | 21/06/24 |
+| TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/categories | 297066aa0f4ec6e9d3b393f2ee68d4698ba8220f | Add files via upload |  | 21/06/24 |
+| TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/categories | 1e32bfd90125284d2f64348666e2244aa87c4b6d | Delete event-wear-platform.sln |  | 21/06/24 |
+| TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/categories | 2260e98ccae094ed30c12752186baecddf0af707 | Delete event-wear-platform directory |  | 21/06/24 |
 
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
