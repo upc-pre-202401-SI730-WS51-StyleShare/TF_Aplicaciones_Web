@@ -2154,6 +2154,9 @@ En este sprint del proyecto Style-Share-platform, en el frontend se avanzó sign
 | TonyRamosNajar/ upc-pre-202401-SI730-WS51-StyleShare /Style-Share-platform | feature/categories | 2260e98ccae094ed30c12752186baecddf0af707 | Delete event-wear-platform directory |  | 21/06/24 |
 
 ##### 5.2.4.4. Testing Suite Evidence for Sprint Review.
+| Repository                                     | Branch | Commit ID | Commit Message                                                                             | Commit Message Body | Commited On (Date) |
+|------------------------------------------------|--------|-----------|--------------------------------------------------------------------------------------------|---------------------|--------------------|
+|[Enlace de Repositorio](https://github.com/upc-pre-202401-SI730-WS51-StyleShare/acceptance-test)|main|ebbeda8|Add files via upload||04/05/24|
 
 
 ##### 5.2.4.5. Execution Evidence for Sprint Review.
