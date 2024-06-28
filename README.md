@@ -2219,11 +2219,57 @@ A continuación, se presentan las evidencias de una correcta implementación del
 ##### 5.2.4.7. Software Deployment Evidence for Sprint Review.
 
 
-##### 5.2.4.8. Team Collaboration Insights during Sprint.
+#### 5.2.4.8.Team Collaboration Insights during Sprint.
 
+En esta sección, el equipo presenta un resumen de las actividades de implementación realizadas durante el Sprint, destacando la colaboración y el progreso en GitHub.
 
+## Landing Page & Front End
 
+LINK [https://github.com/upc-pre-202401-SI730-WS51-StyleShare/Style-Share-front/pulse]
 
+Actividades Realizadas:
+
+**Diseño y Maquetación**: Se completó el diseño inicial de la Landing Page utilizando Figma.
+**Desarrollo Frontend**: Implementación de la página de inicio utilizando Vue.js y componentes reutilizables.
+
+![image](Images/teamcollab-pulse.png)
+
+#### Contributors:
+
+![image](Images/teamcollab-contributors1.png)
+![image](Images/teamcollab-contributors2.png)
+
+#### Commits:
+
+![image](Images/teamcollab-commits.png)
+
+#### Traffics:
+
+![image](Images/teamcollab-trafic.png)
+
+## Web Services
+
+LINK: [https://github.com/upc-pre-202401-SI730-WS51-StyleShare/Style-Share-platform/pulse]
+
+Actividades Realizadas:
+
+**Desarrollo Backend**: Implementación de APIs RESTful para soportar las funcionalidades de las aplicaciones web.
+**Monitoreo y Mantenimiento**: Configuración de herramientas de monitoreo para asegurar la disponibilidad de los servicios.
+
+![image](Images/teamcollab-pulsebackend.png)
+
+#### Contributors:
+
+![image](Images/teamcollab-contributors1.png)
+![image](Images/teamcollab-contributors2.png)
+
+#### Commits:
+
+![image](Images/teamcollab-commitsbackend.png)
+
+#### Traffics:
+
+![image](Images/teamcollab-trafficbackend.png)
 
 
 #### 5.3. Validation Interviews.
